@@ -1,11 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Haiqing Li's Homepage</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Haiqing Li | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+      color: #00ffe7;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    .container {
+      text-align: center;
+      padding: 40px;
+      border: 2px solid #00ffe7;
+      border-radius: 20px;
+      background: rgba(0, 0, 0, 0.6);
+      box-shadow: 0 0 20px #00ffe7, 0 0 40px #00ffe7 inset;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+
+    p {
+      font-size: 1.2em;
+      color: #ccc;
+      margin-bottom: 30px;
+    }
+
+    .btn {
+      padding: 12px 24px;
+      margin: 10px;
+      border: none;
+      border-radius: 8px;
+      background-color: #00ffe7;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+
+    .btn:hover {
+      background-color: #000;
+      color: #00ffe7;
+      box-shadow: 0 0 15px #00ffe7;
+    }
+
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 10px #00ffe7, 0 0 20px #00ffe7;
+      }
+      to {
+        text-shadow: 0 0 20px #00fff2, 0 0 30px #00fff2;
+      }
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 0.8em;
+      color: #555;
+    }
+  </style>
 </head>
 <body>
-  <h1>Hello, I'm Haiqing Li!</h1>
-  <p>Welcome to my personal GitHub homepage.</p>
+  <div class="container">
+    <h1>👨‍💻 Haiqing Li</h1>
+    <p>Welcome to my futuristic tech-powered homepage. I build intelligent systems and beautiful code.</p>
+    <a class="btn" href="https://github.com/haiqingli" target="_blank">Visit My GitHub</a>
+    <a class="btn" href="mailto:haiqing@example.com">Email Me</a>
+    <div class="footer">© 2025 Haiqing Li</div>
+  </div>
 </body>
 </html>
