@@ -3,83 +3,119 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Haiqing Li | Portfolio</title>
+  <title>Haiqing Li | PhD Student</title>
   <style>
     body {
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
-      color: #00ffe7;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      overflow: hidden;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
     }
-
-    .container {
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
       text-align: center;
-      padding: 40px;
-      border: 2px solid #00ffe7;
-      border-radius: 20px;
-      background: rgba(0, 0, 0, 0.6);
-      box-shadow: 0 0 20px #00ffe7, 0 0 40px #00ffe7 inset;
     }
-
-    h1 {
-      font-size: 3em;
-      margin-bottom: 10px;
-      animation: glow 2s ease-in-out infinite alternate;
+    nav {
+      background: #34495e;
+      padding: 10px 0;
+      text-align: center;
     }
-
-    p {
-      font-size: 1.2em;
-      color: #ccc;
-      margin-bottom: 30px;
-    }
-
-    .btn {
-      padding: 12px 24px;
-      margin: 10px;
-      border: none;
-      border-radius: 8px;
-      background-color: #00ffe7;
-      color: #000;
-      font-weight: bold;
-      cursor: pointer;
-      transition: all 0.3s ease;
+    nav a {
+      color: white;
+      margin: 0 15px;
       text-decoration: none;
+      font-weight: bold;
     }
-
-    .btn:hover {
-      background-color: #000;
-      color: #00ffe7;
-      box-shadow: 0 0 15px #00ffe7;
+    nav a:hover {
+      text-decoration: underline;
     }
-
-    @keyframes glow {
-      from {
-        text-shadow: 0 0 10px #00ffe7, 0 0 20px #00ffe7;
-      }
-      to {
-        text-shadow: 0 0 20px #00fff2, 0 0 30px #00fff2;
-      }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
     }
-
-    .footer {
-      margin-top: 20px;
-      font-size: 0.8em;
-      color: #555;
+    h2 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #eee;
+      font-size: 0.9em;
+      margin-top: 40px;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>👨‍💻 Haiqing Li</h1>
-    <p>Welcome to my futuristic tech-powered homepage. I build intelligent systems and beautiful code.</p>
-    <a class="btn" href="https://github.com/lhqqq" target="_blank">Visit My GitHub</a>
-    <a class="btn" href="mailto:haiqing@example.com">Email Me</a>
-    <div class="footer">© 2025 Haiqing Li</div>
-  </div>
+
+  <header>
+    <h1>Haiqing Li</h1>
+    <p>Ph.D. Student in Computer Science | AI & Medical Imaging</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#news">News</a>
+    <a href="#publications">Publications</a>
+    <a href="#education">Education</a>
+    <a href="#awards">Honors & Awards</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a Ph.D. student at the University of Texas at Arlington. My research interests lie in medical image analysis, deep learning, and AI for healthcare. I focus on improving diagnosis using multimodal imaging and explainable AI.
+    </p>
+  </section>
+
+  <section id="news">
+    <h2>News</h2>
+    <ul>
+      <li><strong>Mar 2025:</strong> Gave a talk at the IEEE ISBI conference.</li>
+      <li><strong>Jan 2025:</strong> Paper accepted at MICCAI 2025!</li>
+    </ul>
+  </section>
+
+  <section id="publications">
+    <h2>Publications</h2>
+    <ul>
+      <li>
+        <strong>Li, H.</strong>, Wang, Y., Zhang, X. (2025). "Gait-MIL: Attention-Guided Multiple Instance Learning for Scoliosis Detection", <em>MICCAI</em>.
+      </li>
+      <li>
+        <strong>Li, H.</strong>, et al. (2024). "Cross-Modality Gait Recognition for Human Identification", <em>CVPR</em>.
+      </li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li>Ph.D. in Computer Science, University of Texas at Arlington, 2023–Present</li>
+      <li>M.S. in Electrical Engineering, BUCEA, 2020–2023</li>
+      <li>B.S. in Electrical Engineering, Chengdu University of Technology, 2016–2020</li>
+    </ul>
+  </section>
+
+  <section id="awards">
+    <h2>Honors & Awards</h2>
+    <ul>
+      <li>Outstanding Research Award, BUCEA, 2022</li>
+      <li>Graduate Fellowship, UTA, 2023–2024</li>
+      <li>Merit-Based Scholarship, CDUT, 2018–2019</li>
+    </ul>
+  </section>
+
+  <footer>
+    © 2025 Haiqing Li · Last updated: March 2025
+  </footer>
+
 </body>
 </html>
