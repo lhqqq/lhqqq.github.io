@@ -17,18 +17,18 @@ I am a first-year PhD student in Computer Science at the University of Texas at 
 
 News!
 ======
-*Jun. 2025: Two papers accepted by MICCAI 2025.
-*Jan. 2024: One Paper is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science.
-*Oct. 2023: I am awarded the Best Student Paper Award at the International Joint Conference on Biometrics (IJCB) 2023.
-*Oct. 2023: Winner of the 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023) at IJCB 2023.
-*Oct. 2023: One Paper is by IJCB 2023.
+* Jun. 2025: Two papers accepted by MICCAI 2025.
+* Jan. 2024: One Paper is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science.
+* Oct. 2023: I am awarded the Best Student Paper Award at the International Joint Conference on Biometrics (IJCB) 2023.
+* Oct. 2023: Winner of the 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023) at IJCB 2023.
+* Oct. 2023: One Paper is by IJCB 2023.
 <br>
 
 Education
 ======
-*Ph.D. in Computer Science, University of Texas at Arlington, 2024–present, supervised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/)
+* Ph.D. in Computer Science, University of Texas at Arlington, 2024–present, supervised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/)
 *M.S. in Electrical Engineering, Beijing University of Civil Engineering and Architecture, 2021–2024, supervised by [Associate Professor Caiyong Wang](https://academia.caiyong.wang/).
-*B.E. in Electrical Engineering, Chengdu University of Technology, 2017–2021.
+* B.E. in Electrical Engineering, Chengdu University of Technology, 2017–2021.
 
 
 
@@ -36,12 +36,12 @@ Education
 
 Work experience
 ======
-*Jul. 2021 – Sep. 2021: Research Assistant
-  *National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
-  *Supervisor: [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/).
-*Mar. 2023 - Jul. 2023: Research Assistant
-  *National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
-  *Supervisor: [Yunlong Wang](https://wylcasia.github.io/).
+* Jul. 2021 – Sep. 2021: Research Assistant
+  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+  * Supervisor: [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/).
+* Mar. 2023 - Jul. 2023: Research Assistant
+  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+  * Supervisor: [Yunlong Wang](https://wylcasia.github.io/).
 
 <br>
 
