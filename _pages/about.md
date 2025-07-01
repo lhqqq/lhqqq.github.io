@@ -36,11 +36,12 @@ Education
 
 Work experience
 ======
-* 2019～now: Associate Professor
-  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
-
-* 2017～2019: Assistant Professor
-  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+*Jul. 2021 – Sep. 2021: Research Assistant
+  *National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+  *Supervisor: [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/).
+*Mar. 2023 - Jul. 2023: Research Assistant
+  *National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+  *Supervisor: [Yunlong Wang](https://wylcasia.github.io/).
 
 <br>
 
