@@ -12,46 +12,25 @@ Short Bio
 ======
 I am a first-year PhD student in Computer Science at the University of Texas at Arlington. My PhD advisor is [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/), and I am a member of the SMILE Lab. My research interest includes machine learning and pattern recognition, especially **Biometric Image Analysis**, **Medical Image Computing**, and **Multi-Modal Learning**. I was awarded the [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) at the International Joint Conference on Biometrics (IJCB) 2023. I was the winner of the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1), also held at IJCB 2023.
 
-
-
-I received my M.S. in Electrical Engineering from Beijing University of Civil Engineering and Architecture, and my B.E. in Electrical Engineering from Chengdu University of Technology. 
-
-I am now an Associate Professor at Institute of Automation Chinese Academic of Sciences (CASIA). My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face recognition**, and **Face AIGC**. I am awarded the “Young Biometrics Investigator Award **(YBIA)**” by the International Association of Pattern Recognition (IAPR) in 2023 (awarded biennially to one scholar under 40 worldwide). I won the Champion of the Face Recognition Challenges at WACV 2024 and ICCV 2017, CCBR Best Student Paper Award (2017), Best Poster Paper Award (2022), and Best Paper 1st Runner Up (2023). I have published more 100 papers with total citation in Google Scholar being over 10000. I am an IEEE senior member and serve as the Associate Editor of IEEE Transactions on Information Forensics & Security (T-IFS) and Pattern Recognition (PR), Program Chair of IJCB 2025, and Area Chair for IJCB and ACM MM. My github projects on face analysis and 3D reconstruction have gained over 8000 stars.
-
 <br>
 
 
 News!
 ======
-* Apr. 2025: One paper about interpretable AI is accepted by IJCAI
-* Mar. 2025: One paper is accepted by ICME
-* Mar. 2025: Two papers are accepted by CVPR
-* Feb. 2025: One paper is accepted by TIP
-* Nov. 2024: I am awarded the Natural Science Award, Chinese Society of Image and Graphics (CSIG) （中国图象图形学学会自然科学二等奖，排序1/4）
-* Jul. 2024: One paper is accepted by ECCV
-* Jul. 2024: Two papers are accepted by ACM-Multimedia (ACM-MM)
-* Apr. 2024: One paper on 6DoF Face Pose Estimation is accepted by IEEE Transactions on Multimedia (TMM). 
-* Mar. 2024: Our 3DDFAv3 Paper “3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation” is accepted by CVPR 2024 (Highlight). 
-* Mar. 2024: We won the WACV 2024 Face Recognition Challenge in the Era of Synthetic Data (FRCSyn). Congrats to all collaborators!
-* Dec. 2023: We won the Best Paper 1st Runner Up in CCBR 2023. Congrats to YangTe!
-* Oct. 2023: I am awarded the IAPR Young Biometrics Investigator Award (**YBIA**). Thanks IAPR TC4 committee [<a href="https://iapr-tc4.org/awards/">Link</a>]. 
-* Mar. 2023: My paper (first author) is accepted by **TBIOM**, and one paper is accepted by **TIP**. 
-* Mar. 2023: Four papers are accepted by **CVPR**. Congrats to all collaborators!
-* Feb. 2023: We won the Best Poster Paper in CCBR 2022. Congrats to Tianshuo!
-* Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
-* May. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
-* Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
-* Apr. 2022: My paper (first author) is accepted by **T-PAMI**.
-* Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
-* Jan. 2022: One paper accepted by **ICLR** 2022.
-* Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics. （中国电子学会科学技术二等奖）
-
+*Jun. 2025: Two papers accepted by MICCAI 2025.
+*Jan. 2024: One Paper is accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science.
+*Oct. 2023: I am awarded the Best Student Paper Award at the International Joint Conference on Biometrics (IJCB) 2023.
+*Oct. 2023: Winner of the 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023) at IJCB 2023.
+*Oct. 2023: One Paper is by IJCB 2023.
 <br>
 
 Education
 ======
-* Ph.D in Institute of Automation, Chinese Academic of Sciences, 2017, supervised by [Prof. Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/)
-* B.S. in College of Computer Science, Sichuan University, 2012
+*Ph.D. in Computer Science, University of Texas at Arlington, 2024–present, supervised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/)
+*M.S. in Electrical Engineering, Beijing University of Civil Engineering and Architecture, 2021–2024, supervised by [Associate Professor Caiyong Wang](https://academia.caiyong.wang/).
+*B.E. in Electrical Engineering, Chengdu University of Technology, 2017–2021.
+
+
 
 <br>
 
