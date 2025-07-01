@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-I am a first-year PhD student in Computer Science at the University of Texas at Arlington. My PhD advisor is [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/), and I am a member of the SMILE Lab. My research interest includes machine learning and pattern recognition, especially **Biometric Image Analysis**, **Medical Image Computing**, and **Multi-Modal Learning**. I was awarded the [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) at the International Joint Conference on Biometrics (IJCB) 2023.
+I am a first-year PhD student in Computer Science at the University of Texas at Arlington. My PhD advisor is [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/), and I am a member of the SMILE Lab. My research interest includes machine learning and pattern recognition, especially **Biometric Image Analysis**, **Medical Image Computing**, and **Multi-Modal Learning**. I was awarded the [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) at the International Joint Conference on Biometrics (IJCB) 2023. I was the winner of the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1), also held at IJCB 2023.
 
 
 
