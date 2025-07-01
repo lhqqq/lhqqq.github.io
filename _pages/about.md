@@ -47,11 +47,7 @@ Work experience
 
 Services
 ======
-* Associate Editor, IEEE Transactions on Information Forensics and Security (TIFS)
-* Associate Editor, Pattern Recognition (PR)
-* Program Chair,  The IEEE International Joint Conference on Biometrics (IJCB) 2025
-* Area Chair, The ACM Multimedia (ACM MM) 2020,2021,2022
-* Area Chair, The IEEE International Joint Conference on Biometrics (IJCB) 2023
+
 
 <br>
 
@@ -82,15 +78,4 @@ Competitions Winner
 
 <br>
 
-Activities Organization
-======
-* 2024 Workshop: "Face Biometrics" in CCBR 2024 [<a href="https://ccbr99.cn/forums.html?c=c7">Link</a>]
-* 2024 Valse Webinar: "Digital Face Generation, 2D and 3D Methods" [<a href="https://ccbr99.cn/forums.html?c=c7">Link</a>]
-* 2022 Workshop: "1st International Workshop and Challenge on People Analysis: From Face, Body and Fashion to 3D Virtual Avatars" in ECCV 2022 [<a href="https://sites.google.com/view/wcpa2022/">Link</a>]
-* 2021 Competition: "3D face reconstruction from multiple 2D images" in CVPR 2021 [<a href="http://www.picdataset.com/challenge/task/3dface/">Link</a>]
-* 2021 Competition: "The 3rd Grand Challenge of 106-Point Facial Landmark Localization" in ICME 2021 [<a href="https://fllc3-icme2021.github.io/index.html">Link</a>]
-* 2020 Competition:"The 2nd Grand Challenge of 106-Point Facial Landmark Localization" in ICME 2020 [<a href="https://fllc-icpr2020.github.io/home/">Link</a>]
-* 2019 Competition:"Grand Challenge of 106-p Facial Landmark Localization" in ICME 2019[<a href="https://facial-landmarks-localization-challenge.github.io">Link</a>]
-
-<br>
 
