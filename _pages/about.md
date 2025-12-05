@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year PhD student in Computer Science at the University of Texas at Arlington, advised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/) in the SMILE Lab. My work focuses on **biometrics (iris/sclera)**, **deepfake detection**, and **medical image analysis**. I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
+Hi! I am a first-year PhD student in Computer Science at the University of Texas at Arlington, advised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/) in the SMILE Lab. My current work focuses on **medical AI**, **biometrics**, and **large language models (LLMs)**. I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
 
 <div class="btn-bar">
   <a class="btn btn--info" href="mailto:Haiqing.Li1998@outlook.com">Email</a>
@@ -18,9 +18,9 @@ Hi! I am a first-year PhD student in Computer Science at the University of Texas
 </div>
 
 ## Research interests
-- Biometrics: iris and sclera recognition
-- Deepfake detection and presentation attack detection
-- Medical image analysis
+- Medical AI
+- Biometrics (iris/sclera) and presentation attack detection
+- Large language models (LLMs)
 
 ## Education
 - Ph.D. candidate, Computer Science, University of Texas at Arlington, Sept 2024–present (advisor: [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/)), Arlington, TX, USA
