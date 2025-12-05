@@ -13,7 +13,8 @@ Hi! I am a first-year PhD student in Computer Science at the University of Texas
 <div class="btn-bar">
   <a class="btn btn--info" href="mailto:Haiqing.Li1998@outlook.com">Email</a>
   <a class="btn" href="https://github.com/lhqqq">GitHub</a>
-  <!-- Add your Scholar/CV links when ready -->
+  <a class="btn" href="https://scholar.google.com/citations?user=Rc0GsFAAAAAJ&hl=zh-CN">Google Scholar</a>
+  <!-- Add your CV link when ready -->
 </div>
 
 ## Research interests
