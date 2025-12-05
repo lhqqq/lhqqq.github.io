@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Haiqing Li"
 title_separator          : "-"
 name                     : &name "Haiqing Li"
-description              : &description "PhD student at UTA working on biometric image analysis, medical image computing, and multi-modal learning."
+description              : &description "PhD student at UTA focusing on biometric image analysis, iris/sclera recognition, deepfake, and medical image analysis."
 url                      : https://lhqqq.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lhqqq/lhqqq.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Haiqing Li"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, SMILE Lab @ University of Texas at Arlington. Biometric image analysis, medical image computing, and multi-modal learning."
+  bio              : "PhD student, SMILE Lab @ University of Texas at Arlington. Biometrics (iris/sclera), deepfake, and medical image analysis."
   location         : "Arlington, TX"
   employer         : "University of Texas at Arlington"
   uri              : # URL
-  email            : "lhq1998520@163.com" 
+  email            : "Haiqing.Li1998@outlook.com" 
 
   # Academic websites
   academia         : # URL

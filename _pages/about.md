@@ -8,45 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Computer Science at the University of Texas at Arlington, advised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/) in the SMILE Lab. My research focuses on **biometric image analysis**, **medical image computing**, and **multi-modal learning**. I received the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and won the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
+Hi! I am a first-year PhD student in Computer Science at the University of Texas at Arlington, advised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/) in the SMILE Lab. My work focuses on **biometrics (iris/sclera)**, **deepfake detection**, and **medical image analysis**. I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
+
+<div class="btn-bar">
+  <a class="btn btn--info" href="mailto:Haiqing.Li1998@outlook.com">Email</a>
+  <a class="btn" href="https://github.com/lhqqq">GitHub</a>
+  <!-- Add your Scholar/CV links when ready -->
+</div>
 
 ## Research interests
-- Biometric image analysis
-- Medical image computing
-- Multi-modal learning for biometrics and healthcare
-
-## News
-- **Jun. 2025:** Two papers accepted by MICCAI 2025.
-- **Jan. 2024:** Paper accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science.
-- **Oct. 2023:** Awarded Best Student Paper at IJCB 2023.
-- **Oct. 2023:** Winner of the 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023) at IJCB 2023.
-- **Oct. 2023:** Paper accepted by IJCB 2023.
+- Biometrics: iris and sclera recognition
+- Deepfake detection and presentation attack detection
+- Medical image analysis
 
 ## Education
-- Ph.D. in Computer Science, University of Texas at Arlington, 2024–present (advisor: [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/))
-- M.S. in Electrical Engineering, Beijing University of Civil Engineering and Architecture, 2021–2024 (advisor: [Associate Professor Caiyong Wang](https://academia.caiyong.wang/))
-- B.E. in Electrical Engineering, Chengdu University of Technology, 2017–2021
+- Ph.D. candidate, Computer Science, University of Texas at Arlington, Sept 2024–present (advisor: [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/)), Arlington, TX, USA
+- Master of Engineering, Mechanical Engineering, Beijing University of Civil Engineering and Architecture, Sept 2021–Jun 2024, Beijing, China (GPA 89.82/100, top 10%)
+- B.E., Electrical Engineering and Automation, Chengdu Technological University, Sept 2017–Jun 2021, Chengdu, China (GPA 3.72/4.0, top 1%)
 
-## Research experience
-- Research Assistant, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (Jul. 2021–Sep. 2021), with [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/)
-- Research Assistant, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (Mar. 2023–Jul. 2023), with [Yunlong Wang](https://wylcasia.github.io/)
+## Selected publications
+- C. Wang, **H. Li** (corresponding), G. Zhao, Z. He, Y. Wang, Z. Sun. “Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation and Recognition.” IEEE TBIOM, 2024.
+- **H. Li**, C. Wang, G. Zhao, Z. He, Y. Wang, Z. Sun. “Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation.” IJCB 2023. *Best Student Paper Award.*
+- C. Wang, **H. Li** (co-first), W. Ma, G. Zhao, Z. He. “MetaScleraSeg: An Effective Meta Learning Framework for Generalized Sclera Segmentation.” Neural Computing and Applications, 2023.
+- A. Das, S. Atreya, A. Mukherjee, M. Vitek, **H. Li**, et al. “Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023.” IJCB 2023.
 
-## Honors and awards
-- IAPR Young Biometrics Investigator Award 2023 (**YBIA**) [<a href="https://iapr-tc4.org/awards/">Link</a>]
-- 2024 Second Class Prize of the Natural Science Award, Chinese Society of Image and Graphics (CSIG) (ranked 1/4)
-- IEEE Senior Member; CSIG Senior Member
-- 2023 CCBR Best Paper 1st Runner Up
-- 2022 CCBR Best Poster Paper Award
-- 2022 Baidu Xueshu Global Top Chinese Young Scholars in AI [<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">Link</a>]
-- 2022 Tencent AI Lab Rhino-Bird Focused Research Program
-- 2021 Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics
-- 2021 Young Elite Scientist Sponsorship Program, Beijing Association for Science and Technology
-- 2020 Member, Youth Innovation Promotion Association, Chinese Academy of Sciences
-- 2019 Best Doctoral Dissertation Finalist, China Society of Image and Graphics (CSIG)
-- 2018 ICME Best Student Paper Award Runner-up
-- 2017 CCBR Best Student Paper Award
+## Research & work experience
+- Research on segmentation and recognition of ocular biometrics in unconstrained scenarios, BUCEA (Jan 2021–Present). Designed meta-learning and Transformer+CNN two-stream methods for robust sclera segmentation/recognition; supported by NSFC (Grant No. 62106015).
+- Research on smart iris recognition systems, CASIA (Mar 2023–Jul 2023). Built multi-modal ocular recognition combining iris, sclera, periocular; explored fusion strategies to boost accuracy.
+- Research on DL-based insulator crack detection, CDTU (Jun 2020–May 2021). Led UAV-based real-time inspection system with deep learning crack detection; produced defect dataset and secured a patent.
+- Research Assistant Intern, CASIA (Jul 2021–Sep 2021) with [Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/). Face presentation attack detection with CNN/Transformer on CASIA-SURF-CeFA.
 
-## Competition results
-- 2024: WACV 2024 [Face Recognition Challenge in the Era of Synthetic Data](https://frcsyn.github.io/), 1st place on two sub-tasks
-- 2019: ICCV 2019 [Lightweight Face Recognition Challenge, DeepGlint-Large Track](https://ibug.doc.ic.ac.uk/resources/lightweight-face-recognition-challenge-workshop/) champion
-- 2017: FG2017 facial micro-expression recognition competition winner
+## Honors & awards
+- Winner, 8th Sclera Segmentation and Recognition Benchmarking Competition, IJCB 2023
+- National 2nd Prize & 3rd Prize, 22nd China Robotics and AI Competition (CAAI), 2020
+- Honorable Mention, Mathematical Contest in Modeling (COMAP), 2020
+- Finalist, Academy Award of China Advertising Art Festival for College Students, 2020
+- 1st Prize, Siemens Cup China Intelligent Manufacturing Challenge (National Preliminary), 2019
+- “Most Impactful Projects” list, Chinese College Students’ Volunteer Activities, 2018
+- Multiple scholarships: National Encouragement Scholarship (2x), School-level First/Second Class, Innovation & Entrepreneurship Scholarship
+
+## Skills
+- Programming: C, C++, Python, MATLAB, Linux; PyTorch, TensorFlow
+- Tools: Visual Studio, PyCharm; Microsoft Office; CAD, Visio
+- Languages: Chinese (native), English
