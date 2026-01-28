@@ -147,16 +147,43 @@ redirect_from:
       <em>Academic Journal of Environment & Earth Science</em>, 2020.
     </li>
   </ul>
-</section>
-  <section id="experience">
-    <h3 class="section-title">Research &amp; Work Experience</h3>
-    <ul class="simple-list">
-      <li><strong>Jan 2021–Present:</strong> BUCEA: Ocular biometrics in unconstrained scenarios; meta-learning and Transformer + CNN for sclera segmentation/recognition (NSFC Grant No. 62106015).</li>
-      <li><strong>Mar 2023–Jul 2023:</strong> CASIA: Multi-modal ocular recognition across iris, sclera, and periocular signals.</li>
-      <li><strong>Jun 2020–May 2021:</strong> CDTU: UAV-based insulator crack detection system with deep learning.</li>
-      <li><strong>Jul 2021–Sep 2021:</strong> CASIA: Face presentation attack detection with CNN/Transformer on CASIA-SURF-CeFA.</li>
+<section id="experience">
+  <h3 class="section-title">Research Experience</h3>
+
+  <div style="margin-bottom: 40px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h4 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #007bff; padding-left: 15px;">
+        Institute of Automation, Chinese Academy of Sciences (CASIA)
+      </h4>
+      <span style="color: #666; font-weight: bold;">Beijing, China</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
+      <em style="color: #444; font-size: 1.1em;">Research Intern (Advised by Prof. Yunlong Wang)</em>
+      <span style="color: #666;">Mar 2023 – Jul 2023</span>
+    </div>
+    <ul style="margin-top: 12px; line-height: 1.7;">
+      <li>Researched <strong>multi-modal ocular recognition</strong> across iris, sclera, and periocular signals to enhance biometric robustness in unconstrained scenarios.</li>
+      <li><strong>Outcome:</strong> This work led to the development of "Sclera-TransFuse," which received the <strong>Best Student Paper Award</strong> at IJCB 2023.</li>
     </ul>
-  </section>
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h4 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #6c757d; padding-left: 15px;">
+        Institute of Automation, Chinese Academy of Sciences (CASIA)
+      </h4>
+      <span style="color: #666; font-weight: bold;">Beijing, China</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
+      <em style="color: #444; font-size: 1.1em;">Research Intern (Advised by Prof. Xiangyu Zhu)</em>
+      <span style="color: #666;">Jul 2021 – Sep 2021</span>
+    </div>
+    <ul style="margin-top: 12px; line-height: 1.7;">
+      <li>Developed <strong>Face Presentation Attack Detection (PAD)</strong> systems utilizing hybrid CNN and Transformer architectures.</li>
+      <li>Evaluated model performance on large-scale biometric datasets to improve defense mechanisms against sophisticated spoofing attempts.</li>
+    </ul>
+  </div>
+</section>
 
   <section id="education">
     <h3 class="section-title">Education</h3>
