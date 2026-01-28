@@ -62,36 +62,83 @@ redirect_from:
     <li><strong>LLM Rule-Following:</strong> World Model-based Alignment, Structured Prompt Optimization, and Guideline-driven Reasoning</li>
     <li><strong>Medical Image Analysis:</strong> Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation</li>
     <li><strong>Biometrics & Security:</strong> Robust Ocular Recognition and Multi-scenario Deepfake Forensics</li>
-    <li><strong>Awards & Competitions:</strong> Winner, 8th Sclera Segmentation and Recognition Benchmarking Competition (<strong>IJCB 2023</strong>)</li>
   </ul>
 </section>
+<section id="publications">
+  <h3 class="section-title">Publications</h3>
+  
+  <h4 class="sub-section-title">2025 (Selected Preprints & Conference)</h4>
+  <ul class="simple-list">
+    <li>
+      The-Minh Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuan Miao, Qiang Zhou, Junzhou Huang. 
+      "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics." 
+      <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
+    </li>
+    <li>
+      <strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, The-Minh Dang, Hehuan Ma, Qiang Zhou, Junzhou Huang. 
+      "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis." 
+      <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
+    </li>
+    <li>
+      Qiang Zhou, The-Minh Dang, Wenxuan Zhong, Yuzhi Guo, Hehuan Ma, Seonah Na, <strong>Haiqing Li</strong>, Junzhou Huang. 
+      "Mllm4pue: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs." 
+      <em>arXiv preprint arXiv:2502.07221</em>, 2025.
+    </li>
+    <li>
+      <strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang. 
+      "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification." 
+      <em>arXiv preprint arXiv:2504.03894</em>, 2025.
+    </li>
+  </ul>
 
-  <section id="publications">
-    <h3 class="section-title">Selected Publications</h3>
-    <ol class="simple-list">
-      <li>
-        C. Wang, <strong>H. Li</strong> (corresponding), G. Zhao, Z. He, Y. Wang, Z. Sun.
-        “Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation and Recognition.”
-        IEEE TBIOM, 2024.
-      </li>
-      <li>
-        <strong>H. Li</strong>, C. Wang, G. Zhao, Z. He, Y. Wang, Z. Sun.
-        “Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation.”
-        IJCB 2023. Best Student Paper Award.
-      </li>
-      <li>
-        C. Wang, <strong>H. Li</strong> (co-first), W. Ma, G. Zhao, Z. He.
-        “MetaScleraSeg: An Effective Meta Learning Framework for Generalized Sclera Segmentation.”
-        Neural Computing and Applications, 2023.
-      </li>
-      <li>
-        A. Das, S. Atreya, A. Mukherjee, M. Vitek, <strong>H. Li</strong>, et al.
-        “Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023.”
-        IJCB 2023.
-      </li>
-    </ol>
-  </section>
+  <h4 class="sub-section-title">2024</h4>
+  <ul class="simple-list">
+    <li>
+      Caiyong Wang, <strong>Haiqing Li</strong> (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun. 
+      "Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition." 
+      <em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</em>, 2024.
+    </li>
+    <li>
+      Yi Zhang, Caiyong Wang, <strong>Haiqing Li</strong>, Xingqun Sun, Qi Tian, and Guangzhao Zhao. 
+      "OcularSeg: Accurate and Efficient Multi-modal Ocular Segmentation in Non-constrained Scenarios." 
+      <em>Electronics</em>, 13(10), 1967, 2024.
+    </li>
+  </ul>
 
+  <h4 class="sub-section-title">2023</h4>
+  <ul class="simple-list">
+    <li>
+      <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun. 
+      "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation." 
+      <em>IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023. 
+      <strong style="color: #c00;">(Best Student Paper Award)</strong>
+    </li>
+    <li>
+      Caiyong Wang, <strong>Haiqing Li</strong> (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He. 
+      "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation." 
+      <em>Neural Computing and Applications</em>, 2023.
+    </li>
+    <li>
+      Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, et al. 
+      "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023." 
+      <em>IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023.
+    </li>
+  </ul>
+
+  <h4 class="sub-section-title">Earlier Works</h4>
+  <ul class="simple-list">
+    <li>
+      Ying Zheng, <strong>Haiqing Li</strong>, and Aiping Ren. 
+      "Research on Application of Computer Image Processing in Web Design." 
+      <em>IEEE International Conference on Power, Intelligent Computing and Systems</em>, 2020.
+    </li>
+    <li>
+      <strong>Haiqing Li</strong>, Xiaoyang Gao, Yuxuan Zhao, and Minglu Xu. 
+      "Inversion and Prediction of Ocean Resource Flow." 
+      <em>Academic Journal of Environment & Earth Science</em>, 2020.
+    </li>
+  </ul>
+</section>
   <section id="experience">
     <h3 class="section-title">Research &amp; Work Experience</h3>
     <ul class="simple-list">
