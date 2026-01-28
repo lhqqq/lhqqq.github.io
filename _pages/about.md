@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "PhD student focused on biometrics, medical image analysis, LLM, and NLP"
+excerpt: "PhD student focused on biometrics, medical image analysis, LLM, and NLP."
 author_profile: false
 classes: wide
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
         <div class="hero-meta">SMILE Lab, University of Texas at Arlington</div>
         <div class="hero-meta">Arlington, TX, USA</div>
         <div class="hero-meta">
-          Email: <a href="mailto:Haiqing.Li1998@outlook.com">Haiqing.Li1998@outlook.com</a>
+          Email: <a href="mailto:hxl9110@mavs.uta.edu">hxl9110@mavs.uta.edu</a>
         </div>
         <div class="hero-links">
           <a href="https://scholar.google.com/citations?user=Rc0GsFAAAAAJ&hl=zh-CN">Google Scholar</a>
