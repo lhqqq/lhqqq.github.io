@@ -211,11 +211,45 @@ redirect_from:
     <li>
     CSE 4322: Software Project Management (Spring 2025)
     </li>
-  </ul>
 </section>
 
 
+<section id="honors">
+  <h3 class="section-title">Honors & Awards</h3>
 
+  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2023</h4>
+  <ul class="simple-list">
+    <li>
+      <strong>Best Student Paper Award</strong>, IEEE International Joint Conference on Biometrics (IJCB), 2023.
+    </li>
+    <li>
+      <strong>Winner</strong>, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, Jun 2023.
+    </li>
+  </ul>
+
+  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #6c757d; padding-left: 15px;">2020</h4>
+  <ul class="simple-list" style="line-height: 1.8;">
+    <li>
+      <strong>National Second Prize & National Third Prize</strong>, 22nd China Robotics and Artificial Intelligence Competition, CAAI, Jul 2020.
+    </li>
+    <li>
+      <strong>Honorable Mention</strong>, Mathematical Contest in Modeling (MCM/ICM), COMAP, Apr 2020.
+    </li>
+    <li>
+      <strong>Finalist</strong>, Academy Award of China Advertising Art Festival for College Students, Mar 2020.
+    </li>
+  </ul>
+
+  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #6c757d; padding-left: 15px;">Earlier Awards</h4>
+  <ul class="simple-list" style="line-height: 1.8;">
+    <li>
+      <strong>First Prize</strong>, National Preliminary Competition of Siemens Cup China Intelligent Manufacturing Challenge, Jul 2019.
+    </li>
+    <li>
+      <strong>Most Impactful Project</strong>, Chinese College Students’ Volunteer Activities for the Rural Revitalization (Project Leader), 2018.
+    </li>
+  </ul>
+</section>
 
 
 
