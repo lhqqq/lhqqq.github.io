@@ -67,7 +67,7 @@ redirect_from:
 <section id="publications">
   <h3 class="section-title">Publications</h3>
   
-  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2026</h4>
+  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2026 (Selected Preprints & Conference) </h4>
   <ul class="simple-list">
     <li>
       Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. 
@@ -76,7 +76,7 @@ redirect_from:
       <strong style="color: #28a745;">(Poster)</strong>
     </li>
   </ul>
-  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2025 (Selected Preprints & Conference)</h4>
+  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2025 </h4>
   <ul class="simple-list">
     <li>
       The-Minh Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuan Miao, Qiang Zhou, Junzhou Huang. 
