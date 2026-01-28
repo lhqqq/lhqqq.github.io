@@ -242,7 +242,7 @@ redirect_from:
       <strong>First Prize</strong>, National Preliminary Competition of Siemens Cup China Intelligent Manufacturing Challenge, Jul 2019.
     </li>
     <li>
-      <strong>Most Impactful Project</strong>, Chinese College Students’ Volunteer Activities for the Rural Revitalization (Project Leader), 2018.
+      <strong>Most Impactful Project</strong>, Chinese College Students’ Volunteer Activities for the Rural Revitalization, 2018.
     </li>
   </ul>
 </section>
