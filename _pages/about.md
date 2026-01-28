@@ -218,9 +218,7 @@ redirect_from:
   <h3 class="section-title">Honors & Awards</h3>
 
 
-    <li>
-      <strong>Best Student Paper Award</strong>, IEEE International Joint Conference on Biometrics (IJCB), 2023.
-    </li>
+    <li> <strong>Best Student Paper Award</strong>, IEEE International Joint Conference on Biometrics (IJCB), 2023. </li>
     <li>
       <strong>Winner</strong>, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, Jun 2023.
     </li>
