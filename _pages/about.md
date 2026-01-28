@@ -24,8 +24,7 @@ redirect_from:
           <a href="https://scholar.google.com/citations?user=Rc0GsFAAAAAJ&hl=zh-CN">Google Scholar</a>
           <span class="sep">|</span>
           <a href="https://github.com/lhqqq">GitHub</a>
-          <span class="sep">|</span>
-          <a href="/cv/">Curriculum Vitae</a>
+          
         </div>
         <p class="subtitle">
           I study biometric image analysis (iris/sclera), deepfake detection, and medical image analysis.
