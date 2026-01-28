@@ -217,8 +217,7 @@ redirect_from:
 <section id="honors">
   <h3 class="section-title">Honors & Awards</h3>
 
-  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2023</h4>
-  <ul class="simple-list">
+
     <li>
       <strong>Best Student Paper Award</strong>, IEEE International Joint Conference on Biometrics (IJCB), 2023.
     </li>
@@ -227,8 +226,7 @@ redirect_from:
     </li>
   </ul>
 
-  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #6c757d; padding-left: 15px;">2020</h4>
-  <ul class="simple-list" style="line-height: 1.8;">
+
     <li>
       <strong>National Second Prize & National Third Prize</strong>, 22nd China Robotics and Artificial Intelligence Competition, CAAI, Jul 2020.
     </li>
@@ -240,8 +238,6 @@ redirect_from:
     </li>
   </ul>
 
-  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #6c757d; padding-left: 15px;">Earlier Awards</h4>
-  <ul class="simple-list" style="line-height: 1.8;">
     <li>
       <strong>First Prize</strong>, National Preliminary Competition of Siemens Cup China Intelligent Manufacturing Challenge, Jul 2019.
     </li>
