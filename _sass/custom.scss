@@ -60,7 +60,7 @@
 }
 
 .onepage h1 {
-  font-size: clamp(2.4rem, 2rem + 2.2vw, 3.6rem);
+  font-size: clamp(2.4rem, calc(2rem + 2.2vw), 3.6rem);
   margin-bottom: 0.8rem;
   letter-spacing: -0.03em;
 }
