@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "PhD student focused on biometric image analysis, deepfake detection, and medical image analysis."
+excerpt: "PhD student focused on biometrics, medical image analysis, LLM, and NLP"
 author_profile: false
 classes: wide
 redirect_from:
