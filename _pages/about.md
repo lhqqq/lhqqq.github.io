@@ -156,6 +156,62 @@ redirect_from:
     </div>
   </section>
 
+  <section id="publications-full" class="reveal delay-3">
+    <h2 class="section-title">Publications (Full)</h2>
+    {% assign publications_page = site.pages | where: "url", "/publications/" | first %}
+    {% if publications_page %}
+      {{ publications_page.content }}
+    {% endif %}
+  </section>
+
+  <section id="talks" class="reveal delay-3">
+    <h2 class="section-title">Talks</h2>
+    {% assign talks_page = site.pages | where: "url", "/talks/" | first %}
+    {% if talks_page %}
+      {{ talks_page.content }}
+    {% endif %}
+  </section>
+
+  <section id="teaching" class="reveal delay-3">
+    <h2 class="section-title">Teaching</h2>
+    {% assign teaching_page = site.pages | where: "url", "/teaching/" | first %}
+    {% if teaching_page %}
+      {{ teaching_page.content }}
+    {% endif %}
+  </section>
+
+  <section id="portfolio" class="reveal delay-3">
+    <h2 class="section-title">Portfolio</h2>
+    {% assign portfolio_page = site.pages | where: "url", "/portfolio/" | first %}
+    {% if portfolio_page %}
+      {{ portfolio_page.content }}
+    {% endif %}
+  </section>
+
+  <section id="blog-posts" class="reveal delay-3">
+    <h2 class="section-title">Blog Posts</h2>
+    {% assign posts_page = site.pages | where: "url", "/year-archive/" | first %}
+    {% if posts_page %}
+      {{ posts_page.content }}
+    {% endif %}
+  </section>
+
+  <section id="cv" class="reveal delay-3">
+    <h2 class="section-title">CV</h2>
+    {% assign cv_page = site.pages | where: "url", "/cv/" | first %}
+    {% if cv_page %}
+      {{ cv_page.content }}
+    {% endif %}
+  </section>
+
+  <section id="guide" class="reveal delay-3">
+    <h2 class="section-title">Guide</h2>
+    {% assign guide_page = site.pages | where: "url", "/markdown/" | first %}
+    {% if guide_page %}
+      {{ guide_page.content }}
+    {% endif %}
+  </section>
+
   <section id="contact" class="reveal delay-3">
     <div class="contact-card">
       <h2 class="section-title">Contact</h2>
