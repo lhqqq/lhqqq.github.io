@@ -198,15 +198,10 @@ redirect_from:
 <section id="teaching experience">
   <h3 class="section-title">Teaching Experience</h3>
 
-  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2026 Spring</h4>
-  <ul class="simple-list">
+ 
     <li>
-     CSE 1106: Introduction to Computer Science & Engineering
+     CSE 1106: Introduction to Computer Science & Engineering (Spring 2026)
     </li>
-  </ul>
-
-  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #6c757d; padding-left: 15px;">2025</h4>
-  <ul class="simple-list" style="line-height: 1.8;">
     <li>
      CSE 1106: Introduction to Computer Science & Engineering (Fall 2025)
     </li>
