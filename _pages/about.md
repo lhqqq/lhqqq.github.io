@@ -194,76 +194,36 @@ redirect_from:
     </ul>
   </section>
 
-  <section id="skills">
-    <h3 class="section-title">Skills</h3>
-    <ul class="simple-list">
-      <li><strong>Programming:</strong> C, C++, Python, MATLAB, Linux.</li>
-      <li><strong>Frameworks:</strong> PyTorch, TensorFlow.</li>
-      <li><strong>Tools:</strong> Visual Studio, PyCharm, Microsoft Office, CAD, Visio.</li>
-      <li><strong>Languages:</strong> Chinese (native), English.</li>
-    </ul>
-  </section>
 
-  <section id="publications-full">
-    <h3 class="section-title">Publications (Full)</h3>
-    {% assign publications_page = site.pages | where: "url", "/publications/" | first %}
-    {% if publications_page %}
-      {{ publications_page.content }}
-    {% endif %}
-  </section>
+<section id="teaching experience">
+  <h3 class="section-title">Teaching Experience</h3>
 
-  <section id="talks">
-    <h3 class="section-title">Talks</h3>
-    {% assign talks_page = site.pages | where: "url", "/talks/" | first %}
-    {% if talks_page %}
-      {{ talks_page.content }}
-    {% endif %}
-  </section>
+  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2026 Spring</h4>
+  <ul class="simple-list">
+    <li>
+     CSE 1106: Introduction to Computer Science & Engineering
+    </li>
+  </ul>
 
-  <section id="teaching">
-    <h3 class="section-title">Teaching</h3>
-    {% assign teaching_page = site.pages | where: "url", "/teaching/" | first %}
-    {% if teaching_page %}
-      {{ teaching_page.content }}
-    {% endif %}
-  </section>
+  <h4 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #6c757d; padding-left: 15px;">2025</h4>
+  <ul class="simple-list" style="line-height: 1.8;">
+    <li>
+     CSE 1106: Introduction to Computer Science & Engineering (Fall 2025)
+    </li>
+    <li>
+    CSE 3310: Fundamentals of Software Engineering (Summer 2025)
+    </li>
+    <li>
+    CSE 4322: Software Project Management (Spring 2025)
+    </li>
+  </ul>
+</section>
 
-  <section id="portfolio">
-    <h3 class="section-title">Portfolio</h3>
-    {% assign portfolio_page = site.pages | where: "url", "/portfolio/" | first %}
-    {% if portfolio_page %}
-      {{ portfolio_page.content }}
-    {% endif %}
-  </section>
 
-  <section id="blog-posts">
-    <h3 class="section-title">Blog Posts</h3>
-    {% assign posts_page = site.pages | where: "url", "/year-archive/" | first %}
-    {% if posts_page %}
-      {{ posts_page.content }}
-    {% endif %}
-  </section>
 
-  <section id="cv">
-    <h3 class="section-title">CV</h3>
-    {% assign cv_page = site.pages | where: "url", "/cv/" | first %}
-    {% if cv_page %}
-      {{ cv_page.content }}
-    {% endif %}
-  </section>
 
-  <section id="guide">
-    <h3 class="section-title">Guide</h3>
-    {% assign guide_page = site.pages | where: "url", "/markdown/" | first %}
-    {% if guide_page %}
-      {{ guide_page.content }}
-    {% endif %}
-  </section>
 
-  <section id="contact">
-    <h3 class="section-title">Contact</h3>
-    <div>Email: <a href="mailto:Haiqing.Li1998@outlook.com">Haiqing.Li1998@outlook.com</a></div>
-    <div>GitHub: <a href="https://github.com/lhqqq">github.com/lhqqq</a></div>
-    <div>Google Scholar: <a href="https://scholar.google.com/citations?user=Rc0GsFAAAAAJ&hl=zh-CN">Scholar profile</a></div>
-  </section>
-</div>
+
+ 
+
+
