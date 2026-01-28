@@ -47,7 +47,15 @@ redirect_from:
       </div>
     </div>
   </section>
-
+<div class="seeking-news">
+  <p>
+    <strong>📢 News:</strong> I am actively seeking <strong>Summer/Fall 2026 Internships</strong>. 
+    My research interests include <strong>Multimodal Foundation Models</strong>, 
+    <strong>LLM for Healthcare</strong>, and <strong>Biometric Image Analysis</strong>. 
+    If you are looking for a researcher with a background in both Computer Vision and NLP, 
+    please feel free to <a href="mailto:你的邮箱">reach out</a>!
+  </p>
+</div>
   <section id="research">
     <h3 class="section-title">Research Focus</h3>
     <ul class="simple-list">
