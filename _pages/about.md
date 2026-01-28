@@ -224,7 +224,6 @@ redirect_from:
     <li>
       <strong>Winner</strong>, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, Jun 2023.
     </li>
-  </ul>
 
 
     <li>
@@ -236,7 +235,7 @@ redirect_from:
     <li>
       <strong>Finalist</strong>, Academy Award of China Advertising Art Festival for College Students, Mar 2020.
     </li>
-  </ul>
+
 
     <li>
       <strong>First Prize</strong>, National Preliminary Competition of Siemens Cup China Intelligent Manufacturing Challenge, Jul 2019.
@@ -244,7 +243,7 @@ redirect_from:
     <li>
       <strong>Most Impactful Project</strong>, Chinese College Students’ Volunteer Activities for the Rural Revitalization, 2018.
     </li>
-  </ul>
+
 </section>
 
 
