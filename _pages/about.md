@@ -27,10 +27,13 @@ redirect_from:
           
         </div>
         <p class="subtitle">
-          I study biometric image analysis (iris/sclera), deepfake detection, and medical image analysis.
-          I am a first-year PhD student in Computer Science at the University of Texas at Arlington,
-          advised by Prof. Junzhou Huang.
+           I am a second-year PhD student in Computer Science at the University of Texas at Arlington, 
+           advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>. 
+          I received my M.S. from Beijing University of Civil Engineering and Architecture 
+          (Advised by <a href="https://academia.stackexchange.com/users/caiyong-wang">Prof. Caiyong Wang</a>).
         </p>
+
+        
         <ul class="quick-nav">
           <li><a href="#research">Research</a></li>
           <li><a href="#publications">Publications</a></li>
