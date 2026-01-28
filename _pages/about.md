@@ -73,7 +73,7 @@ redirect_from:
       Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. 
       "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." 
       <em>The 40th AAAI Conference on Artificial Intelligence (AAAI)</em>, 2026. 
-      <strong style="color: #28a745;">(Poster)</strong>
+      
     </li>
   </ul>
   <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2025 </h4>
