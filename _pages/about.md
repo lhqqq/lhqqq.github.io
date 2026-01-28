@@ -53,18 +53,18 @@ redirect_from:
     My research interests include <strong>Multimodal Foundation Models</strong>, 
     <strong>LLM for Healthcare</strong>, and <strong>Biometric Image Analysis</strong>. 
     If you are looking for a researcher with a background in both Computer Vision and NLP, 
-    please feel free to <a href="mailto:你的邮箱">reach out</a>!
+    please feel free to <a href="hxl9110@mavs.uta.edu">reach out</a>!
   </p>
 </div>
-  <section id="research">
-    <h3 class="section-title">Research Focus</h3>
-    <ul class="simple-list">
-      <li><strong>Biometrics:</strong> Iris and sclera recognition for robust identity verification in unconstrained settings.</li>
-      <li><strong>Deepfake &amp; PAD:</strong> Detection of presentation attacks with CNN/Transformer models.</li>
-      <li><strong>Medical Imaging:</strong> Segmentation and recognition for medical image analysis.</li>
-      <li><strong>Competitions:</strong> Winner, 8th Sclera Segmentation and Recognition Benchmarking Competition (IJCB 2023).</li>
-    </ul>
-  </section>
+<section id="research">
+  <h3 class="section-title">Research Interests</h3>
+  <ul class="simple-list">
+    <li><strong>LLM Rule-Following:</strong> World Model-based Alignment, Structured Prompt Optimization, and Guideline-driven Reasoning</li>
+    <li><strong>Medical Image Analysis:</strong> Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation</li>
+    <li><strong>Biometrics & Security:</strong> Robust Ocular Recognition and Multi-scenario Deepfake Forensics</li>
+    <li><strong>Awards & Competitions:</strong> Winner, 8th Sclera Segmentation and Recognition Benchmarking Competition (<strong>IJCB 2023</strong>)</li>
+  </ul>
+</section>
 
   <section id="publications">
     <h3 class="section-title">Selected Publications</h3>
