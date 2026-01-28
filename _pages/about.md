@@ -67,7 +67,7 @@ redirect_from:
 <section id="publications">
   <h3 class="section-title">Publications</h3>
   
-  <h4 class="sub-section-title">2025 (Selected Preprints & Conference)</h4>
+  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2025 (Selected Preprints & Conference)</h4>
   <ul class="simple-list">
     <li>
       The-Minh Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuan Miao, Qiang Zhou, Junzhou Huang. 
@@ -91,7 +91,7 @@ redirect_from:
     </li>
   </ul>
 
-  <h4 class="sub-section-title">2024</h4>
+  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2024</h4>
   <ul class="simple-list">
     <li>
       Caiyong Wang, <strong>Haiqing Li</strong> (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun. 
@@ -105,7 +105,7 @@ redirect_from:
     </li>
   </ul>
 
-  <h4 class="sub-section-title">2023</h4>
+  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2023</h4>
   <ul class="simple-list">
     <li>
       <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun. 
@@ -125,7 +125,7 @@ redirect_from:
     </li>
   </ul>
 
-  <h4 class="sub-section-title">Earlier Works</h4>
+  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">Earlier Works</h4>
   <ul class="simple-list">
     <li>
       Ying Zheng, <strong>Haiqing Li</strong>, and Aiping Ren. 
