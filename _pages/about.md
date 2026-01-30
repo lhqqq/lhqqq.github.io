@@ -144,7 +144,7 @@ redirect_from:
     vertical-align:middle;
   ">
     MICCAI'25
-  </span>Thao M Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuan Miao, Qiang Zhou, Junzhou Huang.
+  </span>Thao M. Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuawei Miao, Qifeng Zhou, Junzhou Huang.
         "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics."
         <em style="color:#444;">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
       </li>
@@ -162,17 +162,43 @@ redirect_from:
     vertical-align:middle;
   ">
     MICCAI'25
-  </span><strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Thao M Dang, Hehuan Ma, Qiang Zhou, Junzhou Huang.
+  </span><strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Junzhou Huang.
         "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis."
         <em style="color:#444;">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
       </li>
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        Qiang Zhou, The-Minh Dang, Wenxuan Zhong, Yuzhi Guo, Hehuan Ma, Seonah Na, <strong>Haiqing Li</strong>, Junzhou Huang.
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+   Arxiv
+  </span>Qifeng Zhou, Thao M. Dang, Wenliang Zhong, Yuzhi Guo, Hehuan Ma, Saiyang Na, <strong>Haiqing Li</strong>, Junzhou Huang.
         "Mllm4pue: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs."
         <em style="color:#444;">arXiv preprint arXiv:2502.07221</em>, 2025.
       </li>
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        <strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang.
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    Arxiv
+  </span><strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang.
         "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification."
         <em style="color:#444;">arXiv preprint arXiv:2504.03894</em>, 2025.
       </li>
@@ -201,7 +227,7 @@ redirect_from:
         <em style="color:#444;">IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</em>, 2024.
       </li>
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        Yi Zhang, Caiyong Wang, <strong>Haiqing Li</strong>, Xingqun Sun, Qi Tian, and Guangzhao Zhao.
+        Yixin Zhang, Caiyong Wang, <strong>Haiqing Li</strong>, Xianyun Sun, Qichuan Tian, and Guangzhe Zhao.
         "OcularSeg: Accurate and Efficient Multi-modal Ocular Segmentation in Non-constrained Scenarios."
         <em style="color:#444;">Electronics</em>, 13(10), 1967, 2024.
       </li>
