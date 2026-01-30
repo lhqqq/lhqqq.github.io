@@ -30,7 +30,7 @@ redirect_from:
            I am a second-year PhD student in Computer Science at the University of Texas at Arlington, 
            advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>. 
           I received my M.S. from Beijing University of Civil Engineering and Architecture 
-          (Advised by <a href="https://academia.stackexchange.com/users/caiyong-wang">Prof. Caiyong Wang</a>).
+          (Advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>).
         </p>
 
         
