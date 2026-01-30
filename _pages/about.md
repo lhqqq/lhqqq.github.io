@@ -481,27 +481,28 @@ redirect_from:
   </div>
 </section>
 <!-- ===================== VISITOR MAP ===================== -->
-<section id="visitor-counter" style="margin-top: 3rem; text-align: center;">
+<!-- ===================== VISITOR MAP ===================== -->
+<section id="visitor-map" style="margin-top: 3rem; text-align: center;">
   <h3 class="section-title"
-      style="font-size: 1.55rem; font-weight: 750; margin: 0 auto 1rem auto; padding-left: 14px; border-left: 5px solid #007bff; color: #243447; display: inline-block;">
-    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">👣</span>
-    Visitors
+      style="font-size: 1.55rem; font-weight: 750;
+             margin: 0 auto 1rem auto;
+             padding-left: 14px;
+             border-left: 5px solid #007bff;
+             color: #243447;
+             display: inline-block;">
+    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🌍</span>
+    Visitor Map
   </h3>
 
-  <!-- StatCounter -->
-  <script type="text/javascript">
-    var sc_project=YOUR_PROJECT_ID;
-    var sc_invisible=0;
-    var sc_security="YOUR_SECURITY_CODE";
-  </script>
-  <script type="text/javascript"
-    src="https://www.statcounter.com/counter/counter.js">
-  </script>
-  <noscript>
-    <img src="https://c.statcounter.com/YOUR_PROJECT_ID/0/YOUR_SECURITY_CODE/0/"
-         alt="Visitor Counter">
-  </noscript>
+  <div style="margin-top: 1rem; display: flex; justify-content: center;">
+    <div style="max-width: 420px;">
+      <script type="text/javascript" id="mapmyvisitors"
+        src="//mapmyvisitors.com/map.js?d=EkH5u6DzAVe2dAf0ph3ygYjMhrE1Q0UsUmaOQrVlDx8&cl=ffffff&w=a">
+      </script>
+    </div>
+  </div>
 </section>
+
 
 </div>
 
