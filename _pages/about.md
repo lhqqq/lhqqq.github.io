@@ -120,12 +120,38 @@ redirect_from:
     </h4>
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        The-Minh Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuan Miao, Qiang Zhou, Junzhou Huang.
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    MICCAI'25
+  </span>Thao M Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuan Miao, Qiang Zhou, Junzhou Huang.
         "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics."
         <em style="color:#444;">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
       </li>
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        <strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, The-Minh Dang, Hehuan Ma, Qiang Zhou, Junzhou Huang.
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    MICCAI'25
+  </span><strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Thao M Dang, Hehuan Ma, Qiang Zhou, Junzhou Huang.
         "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis."
         <em style="color:#444;">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
       </li>
