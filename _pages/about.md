@@ -98,10 +98,11 @@ redirect_from:
 
   <!-- ===================== PUBLICATIONS ===================== -->
   <section id="publications" style="margin-top: 2.2rem;">
-    <h3 class="section-title"
-        style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
-      Publications
-    </h3>
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">📚</span>
+  Publications
+</h3>
+
 
     <h4 style="font-size: 1.22rem; font-weight: 750; margin: 1.25rem 0 0.6rem 0; color: #2b2b2b;">
       2026 (Selected Preprints &amp; Conference)
@@ -288,7 +289,7 @@ redirect_from:
     background:#007bff;
     vertical-align:middle;
   ">
-    JICb'23
+    IJCB'23
   </span>Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, et al.
         "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023."
         <em style="color:#444;">IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023.
@@ -298,10 +299,11 @@ redirect_from:
 
   <!-- ===================== EXPERIENCE ===================== -->
   <section id="experience" style="margin-top: 2.2rem;">
-    <h3 class="section-title"
-        style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
-      Research Experience
-    </h3>
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">💼</span>
+  Research Experience
+</h3>
+
 
     <div style="margin-bottom: 2rem;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;">
@@ -356,10 +358,11 @@ redirect_from:
 
   <!-- ===================== EDUCATION ===================== -->
   <section id="education" style="margin-top: 2.2rem;">
-    <h3 class="section-title"
-        style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
-      Education
-    </h3>
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🎓</span>
+  Education
+</h3>
+
 
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
@@ -376,10 +379,11 @@ redirect_from:
 
   <!-- ===================== TEACHING ===================== -->
   <section id="teaching" style="margin-top: 2.2rem;">
-    <h3 class="section-title"
-        style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
-      Teaching Experience
-    </h3>
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🧑‍🏫</span>
+  Teaching Experience
+</h3>
+
 
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
@@ -399,10 +403,11 @@ redirect_from:
 
   <!-- ===================== HONORS ===================== -->
   <section id="honors" style="margin-top: 2.2rem; margin-bottom: 2.5rem;">
-    <h3 class="section-title"
-        style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
-      Honors &amp; Awards
-    </h3>
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🏆</span>
+  Honors &amp; Awards
+</h3>
+
 
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
