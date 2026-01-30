@@ -1,0 +1,6 @@
+/* 全站统一 Arial 字体（覆盖主题） */
+html, body,
+h1, h2, h3, h4, h5, h6,
+p, li, span, a, div {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
