@@ -142,9 +142,10 @@ redirect_from:
   <!-- Experience Item 1 -->
   <div class="exp-item">
     <div class="exp-header">
-      <h4 class="exp-org">
-        Institute of Automation, Chinese Academy of Sciences (CASIA)
-      </h4>
+      <h4 class="exp-org" style="font-size: 1.3rem; font-weight: 650;">
+  Institute of Automation, Chinese Academy of Sciences (CASIA)
+</h4>
+
       <span class="exp-loc">Beijing, China</span>
     </div>
 
@@ -166,9 +167,10 @@ redirect_from:
   <!-- Experience Item 2 -->
   <div class="exp-item">
     <div class="exp-header">
-      <h4 class="exp-org exp-org-gray">
-        Institute of Automation, Chinese Academy of Sciences (CASIA)
-      </h4>
+      <h4 class="exp-org" style="font-size: 1.3rem; font-weight: 650;">
+  Institute of Automation, Chinese Academy of Sciences (CASIA)
+</h4>
+
       <span class="exp-loc">Beijing, China</span>
     </div>
 
