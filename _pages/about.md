@@ -136,41 +136,54 @@ redirect_from:
     </li>
   </ul>
 
-  
-<section id="experience">
+<section id="experience" class="exp-section">
   <h3 class="section-title">Research Experience</h3>
 
-  <div style="margin-bottom: 40px;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <!-- Experience Item 1 -->
+  <div class="exp-item">
+    <div class="exp-header">
       <h4 class="exp-org">
-  Institute of Automation, Chinese Academy of Sciences (CASIA)
-</h4>
-      <span style="color: #666; font-weight: bold;">Beijing, China</span>
+        Institute of Automation, Chinese Academy of Sciences (CASIA)
+      </h4>
+      <span class="exp-loc">Beijing, China</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
-      <em style="color: #444; font-size: 1.1em;">Research Intern (Advised by Prof. Yunlong Wang)</em>
-      <span style="color: #666;">Mar 2023 – Jul 2023</span>
+
+    <div class="exp-meta">
+      <em class="exp-role">Research Intern (Advised by Prof. Yunlong Wang)</em>
+      <span class="exp-date">Mar 2023 – Jul 2023</span>
     </div>
-    <ul style="margin-top: 12px; line-height: 1.7;">
-      <li>Researched <strong>multi-modal ocular recognition</strong> across iris, sclera, and periocular signals to enhance biometric robustness in unconstrained scenarios.</li>
-      <li><strong>Outcome:</strong> This work led to the development of "Sclera-TransFuse," which received the <strong>Best Student Paper Award</strong> at IJCB 2023.</li>
+
+    <ul class="exp-bullets">
+      <li>
+        Researched <strong>multi-modal ocular recognition</strong> across iris, sclera, and periocular signals to enhance biometric robustness in unconstrained scenarios.
+      </li>
+      <li>
+        <strong>Outcome:</strong> This work led to the development of “Sclera-TransFuse,” which received the <strong>Best Student Paper Award</strong> at IJCB 2023.
+      </li>
     </ul>
   </div>
 
-  <div style="margin-bottom: 40px;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-     <h4 class="exp-org">
-  Institute of Automation, Chinese Academy of Sciences (CASIA)
-</h4>
-      <span style="color: #666; font-weight: bold;">Beijing, China</span>
+  <!-- Experience Item 2 -->
+  <div class="exp-item">
+    <div class="exp-header">
+      <h4 class="exp-org exp-org-gray">
+        Institute of Automation, Chinese Academy of Sciences (CASIA)
+      </h4>
+      <span class="exp-loc">Beijing, China</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
-      <em style="color: #444; font-size: 1.1em;">Research Intern (Advised by Prof. Xiangyu Zhu)</em>
-      <span style="color: #666;">Jul 2021 – Sep 2021</span>
+
+    <div class="exp-meta">
+      <em class="exp-role">Research Intern (Advised by Prof. Xiangyu Zhu)</em>
+      <span class="exp-date">Jul 2021 – Sep 2021</span>
     </div>
-    <ul style="margin-top: 12px; line-height: 1.7;">
-      <li>Developed <strong>Face Presentation Attack Detection (PAD)</strong> systems utilizing hybrid CNN and Transformer architectures.</li>
-      <li>Evaluated model performance on large-scale biometric datasets to improve defense mechanisms against sophisticated spoofing attempts.</li>
+
+    <ul class="exp-bullets">
+      <li>
+        Developed <strong>Face Presentation Attack Detection (PAD)</strong> systems utilizing hybrid CNN and Transformer architectures.
+      </li>
+      <li>
+        Evaluated model performance on large-scale biometric datasets to improve defense mechanisms against sophisticated spoofing attempts.
+      </li>
     </ul>
   </div>
 </section>
