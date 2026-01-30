@@ -481,6 +481,7 @@ redirect_from:
   </div>
 </section>
 <!-- ===================== VISITOR MAP ===================== -->
+<!-- ===================== VISITOR MAP ===================== -->
 <section id="visitor-map" style="margin-top: 3rem; text-align: center;">
   <h3 class="section-title"
       style="font-size: 1.55rem; font-weight: 750; margin: 0 auto 1rem auto;
@@ -490,12 +491,15 @@ redirect_from:
     Visitor Map
   </h3>
 
-  <div style="margin-top: 1rem; display:flex; justify-content:center;">
-    <div style="width: 520px; max-width: 92vw; min-height: 260px;">
-      <script type="text/javascript" id="mapmyvisitors"
-        src="https://mapmyvisitors.com/map.js?d=EkH5u6DzAVe2dAf0ph3ygYjMhrE1Q0UsUmaOQrVlDx8&cl=ffffff">
-      </script>
-    </div>
+  <div style="margin-top: 1rem;">
+    <a href="https://mapmyvisitors.com" target="_blank" rel="noopener"
+       style="display:inline-block;">
+      <img
+        src="https://mapmyvisitors.com/map.png?d=EkH5u6DzAVe2dAf0ph3ygYjMhrE1Q0UsUmaOQrVlDx8&cl=ffffff&w=520&t=tt"
+        alt="Visitor Map"
+        style="max-width: 92vw; height: auto; border: 1px solid #eee; border-radius: 8px;"
+      />
+    </a>
   </div>
 </section>
 
