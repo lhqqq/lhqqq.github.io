@@ -68,7 +68,8 @@ redirect_from:
 <section id="publications">
   <h3 class="section-title">Publications</h3>
   
-  <h3 class="pub-year">2026 (Selected Preprints & Conference)</h3>
+
+  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">2026 (Selected Preprints & Conference) </h4>
 <ul class="simple-list">
   <li>
     Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. 
@@ -141,9 +142,9 @@ redirect_from:
 
   <div style="margin-bottom: 40px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #007bff; padding-left: 15px;">
-        Institute of Automation, Chinese Academy of Sciences (CASIA)
-      </h3>
+      <h4 class="exp-org">
+  Institute of Automation, Chinese Academy of Sciences (CASIA)
+</h4>
       <span style="color: #666; font-weight: bold;">Beijing, China</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
@@ -158,9 +159,9 @@ redirect_from:
 
   <div style="margin-bottom: 40px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #6c757d; padding-left: 15px;">
-        Institute of Automation, Chinese Academy of Sciences (CASIA)
-      </h3>
+     <h4 class="exp-org">
+  Institute of Automation, Chinese Academy of Sciences (CASIA)
+</h4>
       <span style="color: #666; font-weight: bold;">Beijing, China</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
