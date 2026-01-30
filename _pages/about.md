@@ -106,10 +106,10 @@ redirect_from:
       2026 (Selected Preprints &amp; Conference)
     </h4>
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
-     <span style="display:inline-block; padding:2px 8px; margin-right:8px; border-radius:999px; font-size:0.85rem; font-weight:700; line-height:1.4; color:#fff; background:#007bff;">
+     <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+       <span style="display:inline-block; padding:2px 8px; margin-right:8px; border-radius:999px; font-size:0.85rem; font-weight:700; line-height:1.4; color:#fff; background:#007bff;">
   AAAI'26
-</span> <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang.
+</span>  Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang.
         “Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks.”
         <em style="color:#444;">The 40th AAAI Conference on Artificial Intelligence (AAAI)</em>, 2026.
       </li>
