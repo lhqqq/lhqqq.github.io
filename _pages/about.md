@@ -433,6 +433,53 @@ redirect_from:
       </li>
     </ul>
   </section>
+<!-- ===================== ACADEMIC SERVICES ===================== -->
+<section id="academic-services" style="margin-top: 2.2rem;">
+  <h3 class="section-title"
+      style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🧭</span>
+    Academic Services
+  </h3>
+
+  <!-- Conference Reviewer -->
+  <div style="margin-bottom: 0.9rem;">
+    <div style="font-size: 1.02rem; font-weight: 650; color: #2f2f2f; margin-bottom: 0.35rem;">
+      Conference Reviewer
+    </div>
+    <ul style="margin: 0.2rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        MICCAI 2025–2026
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        AAAI 2026
+      </li>
+    </ul>
+  </div>
+
+  <!-- Journal Reviewer -->
+  <div>
+    <div style="font-size: 1.02rem; font-weight: 650; color: #2f2f2f; margin-bottom: 0.35rem;">
+      Journal Reviewer
+    </div>
+    <ul style="margin: 0.2rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Expert Systems with Applications
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Information Fusion
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Knowledge-Based Systems
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Neurocomputing
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Optics and Laser Technology
+      </li>
+    </ul>
+  </div>
+</section>
 
 </div>
 
