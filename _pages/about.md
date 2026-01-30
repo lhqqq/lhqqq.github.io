@@ -484,20 +484,28 @@ redirect_from:
 <section id="visitor-map" style="margin-top: 3rem; text-align: center;">
   <h3 class="section-title"
       style="font-size: 1.55rem; font-weight: 750; margin: 0 auto 1rem auto; padding-left: 14px; border-left: 5px solid #007bff; color: #243447; display: inline-block;">
-    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🌍</span>
-    Visitor Map
+    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">👣</span>
+    Visitors
   </h3>
 
   <div style="margin-top: 1rem;">
-    <a href="https://clustrmaps.com/site/1c2r9" title="Visit tracker">
-      <img 
-        src="//clustrmaps.com/map_v2.png?d=QWkq0sZ8x2F2bKcQJkJw9nXyR0l5q5sV8G5v0B2oHnI&cl=ffffff" 
-        alt="Visitor Map"
-        style="max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;"
-      />
-    </a>
+    <!-- StatCounter -->
+    <script type="text/javascript">
+      var sc_project=12999999; 
+      var sc_invisible=0; 
+      var sc_security="abcdef12"; 
+    </script>
+    <script type="text/javascript"
+      src="https://www.statcounter.com/counter/counter.js">
+    </script>
+    <noscript>
+      <div>
+        <img src="https://c.statcounter.com/12999999/0/abcdef12/0/" alt="Visitor Counter">
+      </div>
+    </noscript>
   </div>
 </section>
+
 
 </div>
 
