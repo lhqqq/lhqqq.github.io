@@ -481,31 +481,27 @@ redirect_from:
   </div>
 </section>
 <!-- ===================== VISITOR MAP ===================== -->
-<section id="visitor-map" style="margin-top: 3rem; text-align: center;">
+<section id="visitor-counter" style="margin-top: 3rem; text-align: center;">
   <h3 class="section-title"
       style="font-size: 1.55rem; font-weight: 750; margin: 0 auto 1rem auto; padding-left: 14px; border-left: 5px solid #007bff; color: #243447; display: inline-block;">
     <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">👣</span>
     Visitors
   </h3>
 
-  <div style="margin-top: 1rem;">
-    <!-- StatCounter -->
-    <script type="text/javascript">
-      var sc_project=12999999; 
-      var sc_invisible=0; 
-      var sc_security="abcdef12"; 
-    </script>
-    <script type="text/javascript"
-      src="https://www.statcounter.com/counter/counter.js">
-    </script>
-    <noscript>
-      <div>
-        <img src="https://c.statcounter.com/12999999/0/abcdef12/0/" alt="Visitor Counter">
-      </div>
-    </noscript>
-  </div>
+  <!-- StatCounter -->
+  <script type="text/javascript">
+    var sc_project=YOUR_PROJECT_ID;
+    var sc_invisible=0;
+    var sc_security="YOUR_SECURITY_CODE";
+  </script>
+  <script type="text/javascript"
+    src="https://www.statcounter.com/counter/counter.js">
+  </script>
+  <noscript>
+    <img src="https://c.statcounter.com/YOUR_PROJECT_ID/0/YOUR_SECURITY_CODE/0/"
+         alt="Visitor Counter">
+  </noscript>
 </section>
-
 
 </div>
 
