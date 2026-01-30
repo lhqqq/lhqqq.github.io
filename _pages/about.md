@@ -77,10 +77,11 @@ redirect_from:
 
   <!-- ===================== RESEARCH ===================== -->
   <section id="research" style="margin-top: 2.2rem;">
-    <h3 class="section-title"
-        style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
-      Research Interests
-    </h3>
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🔬</span>
+  Research Interests
+</h3>
+
 
     <ul class="simple-list" style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
