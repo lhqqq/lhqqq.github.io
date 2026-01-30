@@ -107,9 +107,20 @@ redirect_from:
     </h4>
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-       <span style="display:inline-block; padding:2px 8px; margin-right:8px; border-radius:999px; font-size:0.85rem; font-weight:700; line-height:1.4; color:#fff; background:#007bff;">
-  AAAI'26
-</span>  Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang.
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    AAAI'26
+  </span> Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang.
         “Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks.”
         <em style="color:#444;">The 40th AAAI Conference on Artificial Intelligence (AAAI)</em>, 2026.
       </li>
@@ -172,7 +183,20 @@ redirect_from:
     </h4>
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        Caiyong Wang, <strong>Haiqing Li</strong> (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun.
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    T-BIOM'24
+  </span> Caiyong Wang, <strong>Haiqing Li</strong> (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun.
         "Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition."
         <em style="color:#444;">IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</em>, 2024.
       </li>
@@ -188,18 +212,57 @@ redirect_from:
     </h4>
     <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun.
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    IJCB'23
+  </span><strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun.
         "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation."
         <em style="color:#444;">IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023.
         <strong style="color: #c00;">(Best Student Paper Award)</strong>
       </li>
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        Caiyong Wang, <strong>Haiqing Li</strong> (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He.
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    NCAA'23
+  </span>Caiyong Wang, <strong>Haiqing Li</strong> (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He.
         "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation."
         <em style="color:#444;">Neural Computing and Applications</em>, 2023.
       </li>
       <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
-        Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, et al.
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    JICb'23
+  </span>Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, et al.
         "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023."
         <em style="color:#444;">IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023.
       </li>
