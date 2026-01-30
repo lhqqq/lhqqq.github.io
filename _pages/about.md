@@ -66,7 +66,7 @@ redirect_from:
   </ul>
 </section>
 <section id="publications">
-  <h4 class="section-title">Publications</h3>
+  <h3 class="section-title">Publications</h3>
   
   <h3 class="pub-year">2026 (Selected Preprints & Conference)</h3>
 <ul class="simple-list">
