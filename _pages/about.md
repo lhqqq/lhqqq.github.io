@@ -66,7 +66,7 @@ redirect_from:
   </ul>
 </section>
 <section id="publications">
-  <h3 class="section-title">Publications</h3>
+  <h4 class="section-title">Publications</h3>
   
   <h3 style="font-size: 1.5em; margin-top: 50px; margin-bottom: 20px; color: #2c3e50; border-left: 5px solid #007bff; padding-left: 15px;">2026 (Selected Preprints & Conference) </h4>
   <ul class="simple-list">
