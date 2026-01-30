@@ -480,6 +480,24 @@ redirect_from:
     </ul>
   </div>
 </section>
+<!-- ===================== VISITOR MAP ===================== -->
+<section id="visitor-map" style="margin-top: 3rem; text-align: center;">
+  <h3 class="section-title"
+      style="font-size: 1.55rem; font-weight: 750; margin: 0 auto 1rem auto; padding-left: 14px; border-left: 5px solid #007bff; color: #243447; display: inline-block;">
+    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🌍</span>
+    Visitor Map
+  </h3>
+
+  <div style="margin-top: 1rem;">
+    <a href="https://clustrmaps.com/site/1c2r9" title="Visit tracker">
+      <img 
+        src="//clustrmaps.com/map_v2.png?d=QWkq0sZ8x2F2bKcQJkJw9nXyR0l5q5sV8G5v0B2oHnI&cl=ffffff" 
+        alt="Visitor Map"
+        style="max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;"
+      />
+    </a>
+  </div>
+</section>
 
 </div>
 
