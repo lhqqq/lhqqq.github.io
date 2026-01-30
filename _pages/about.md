@@ -135,27 +135,15 @@ redirect_from:
     </li>
   </ul>
 
-  <h4 style="font-size: 1.4em; margin-top: 30px; margin-bottom: 15px; color: #333;">Earlier Works</h4>
-  <ul class="simple-list">
-    <li>
-      Ying Zheng, <strong>Haiqing Li</strong>, and Aiping Ren. 
-      "Research on Application of Computer Image Processing in Web Design." 
-      <em>IEEE International Conference on Power, Intelligent Computing and Systems</em>, 2020.
-    </li>
-    <li>
-      <strong>Haiqing Li</strong>, Xiaoyang Gao, Yuxuan Zhao, and Minglu Xu. 
-      "Inversion and Prediction of Ocean Resource Flow." 
-      <em>Academic Journal of Environment & Earth Science</em>, 2020.
-    </li>
-  </ul>
+  
 <section id="experience">
   <h3 class="section-title">Research Experience</h3>
 
   <div style="margin-bottom: 40px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h4 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #007bff; padding-left: 15px;">
+      <h3 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #007bff; padding-left: 15px;">
         Institute of Automation, Chinese Academy of Sciences (CASIA)
-      </h4>
+      </h3>
       <span style="color: #666; font-weight: bold;">Beijing, China</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
@@ -170,9 +158,9 @@ redirect_from:
 
   <div style="margin-bottom: 40px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h4 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #6c757d; padding-left: 15px;">
+      <h3 style="font-size: 1.4em; color: #2c3e50; margin: 0; border-left: 5px solid #6c757d; padding-left: 15px;">
         Institute of Automation, Chinese Academy of Sciences (CASIA)
-      </h4>
+      </h3>
       <span style="color: #666; font-weight: bold;">Beijing, China</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px;">
