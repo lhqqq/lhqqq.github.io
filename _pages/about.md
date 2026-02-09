@@ -42,8 +42,7 @@ redirect_from:
         <p class="subtitle" style="margin-top: 0.85rem; font-size: 1.0rem; line-height: 1.65; color: #333; max-width: 62ch;">
           I am a second-year PhD student in Computer Science at the University of Texas at Arlington,
           advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>.
-          I received my M.S. from Beijing University of Civil Engineering and Architecture
-          (Advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>).
+          I received my M.S. from Beijing University of Civil Engineering and Architecture, advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>).
         </p>
 
         <ul class="quick-nav" style="display: flex; gap: 0.9rem; flex-wrap: wrap; margin: 0.9rem 0 0 0; padding: 0; list-style: none;">
