@@ -57,7 +57,7 @@ redirect_from:
       </div>
 
       <div class="hero-side">
-        <img src="/images/profile.png" alt="Portrait of Haiqing Li"
+        <img src="/images/IMG_3685.HEIC" alt="Portrait of Haiqing Li"
              style="width: 100%; max-width: 220px; border-radius: 14px; border: 1px solid #eee;">
       </div>
     </div>
