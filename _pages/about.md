@@ -197,12 +197,37 @@ Hi! I am a first-year PhD student in Computer Science at the **University of Tex
 </div>
 
 <div class="hp-section">
-<h2>Selected Publications</h2>
+<h2>Publications</h2>
 <ul class="pub-list">
+  <li>
+    <div class="pub-title">Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis</div>
+    <div class="pub-authors"><strong>H. Li</strong>, Y. Guo, F. Jiang, T.M. Dang, H. Ma, Q. Zhou, J. Gao, J. Huang</div>
+    <div class="pub-venue">MICCAI 2025</div>
+  </li>
+  <li>
+    <div class="pub-title">HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics</div>
+    <div class="pub-authors">T.M. Dang, <strong>H. Li</strong>, Y. Guo, H. Ma, F. Jiang, Y. Miao, Q. Zhou, J. Gao, J. Huang</div>
+    <div class="pub-venue">MICCAI 2025</div>
+  </li>
+  <li>
+    <div class="pub-title">Leveraging Gait Patterns as Biomarkers: An Attention-Guided Deep Multiple Instance Learning Network for Scoliosis Classification</div>
+    <div class="pub-authors"><strong>H. Li</strong>, Y. Guo, F. Jiang, Q. Zhou, H. Ma, J. Huang</div>
+    <div class="pub-venue">arXiv 2025</div>
+  </li>
+  <li>
+    <div class="pub-title">MLLM4PUE: Toward Universal Embeddings in Digital Pathology Through Multimodal LLMs</div>
+    <div class="pub-authors">Q. Zhou, T.M. Dang, W. Zhong, Y. Guo, H. Ma, S. Na, <strong>H. Li</strong>, J. Huang</div>
+    <div class="pub-venue">arXiv 2025</div>
+  </li>
   <li>
     <div class="pub-title">Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation and Recognition</div>
     <div class="pub-authors">C. Wang, <strong>H. Li</strong> (corresponding), G. Zhao, Z. He, Y. Wang, Z. Sun</div>
-    <div class="pub-venue">IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2024</div>
+    <div class="pub-venue">IEEE TBIOM, 2024</div>
+  </li>
+  <li>
+    <div class="pub-title">OcularSeg: Accurate and Efficient Multi-Modal Ocular Segmentation in Non-Constrained Scenarios</div>
+    <div class="pub-authors">Y. Zhang, C. Wang, <strong>H. Li</strong>, et al.</div>
+    <div class="pub-venue">Electronics, 2024</div>
   </li>
   <li>
     <div class="pub-title">Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation <span class="pub-badge">&#9733; Best Student Paper</span></div>
@@ -210,14 +235,24 @@ Hi! I am a first-year PhD student in Computer Science at the **University of Tex
     <div class="pub-venue">IJCB 2023</div>
   </li>
   <li>
-    <div class="pub-title">MetaScleraSeg: An Effective Meta Learning Framework for Generalized Sclera Segmentation</div>
-    <div class="pub-authors">C. Wang, <strong>H. Li</strong> (co-first), W. Ma, G. Zhao, Z. He</div>
-    <div class="pub-venue">Neural Computing and Applications, 2023</div>
-  </li>
-  <li>
     <div class="pub-title">Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023</div>
     <div class="pub-authors">A. Das, S. Atreya, A. Mukherjee, M. Vitek, <strong>H. Li</strong>, et al.</div>
     <div class="pub-venue">IJCB 2023</div>
+  </li>
+  <li>
+    <div class="pub-title">MetaScleraSeg: An Effective Meta Learning Framework for Generalized Sclera Segmentation</div>
+    <div class="pub-authors">C. Wang, <strong>H. Li</strong> (co-first), W. Ma, G. Zhao, Z. He</div>
+    <div class="pub-venue">Neural Comput. Appl., 2023</div>
+  </li>
+  <li>
+    <div class="pub-title">Research on Application of Computer Image Processing in Web Design</div>
+    <div class="pub-authors">Y. Zheng, <strong>H. Li</strong>, A. Ren</div>
+    <div class="pub-venue">IEEE ICPICS 2020</div>
+  </li>
+  <li>
+    <div class="pub-title">Inversion and Prediction of Ocean Resource Flow</div>
+    <div class="pub-authors"><strong>H. Li</strong>, X. Gao, Y. Zhao, M. Xu</div>
+    <div class="pub-venue">AJEEE, 2020</div>
   </li>
 </ul>
 </div>
