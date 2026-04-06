@@ -16,16 +16,14 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 
 ---
 
-Research Interests
-======
+## <i class="fas fa-fw fa-microscope"></i> Research Interests
 - **LLM Rule-Following:** World Model-based Alignment, Structured Prompt Optimization, and Guideline-driven Reasoning
 - **Medical Image Analysis:** Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation
 - **Biometrics & Security:** Robust Ocular Recognition and Multi-scenario Deepfake Forensics
 
 ---
 
-Publications
-======
+## <i class="fas fa-fw fa-book-open"></i> Publications
 
 **2026**
 
@@ -51,8 +49,7 @@ Publications
 
 ---
 
-Research Experience
-======
+## <i class="fas fa-fw fa-flask"></i> Research Experience
 
 **Institute of Automation, Chinese Academy of Sciences (CASIA)** — Beijing, China  
 *Research Intern, advised by Prof. Yunlong Wang* | Mar 2023 – Jul 2023
@@ -66,8 +63,7 @@ Research Experience
 
 ---
 
-Education
-======
+## <i class="fas fa-fw fa-graduation-cap"></i> Education
 
 - **Ph.D. in Computer Science**, University of Texas at Arlington, Sept 2024 – present  
   Advisor: [Prof. Junzhou Huang](http://ranger.uta.edu/~huang/)
@@ -78,8 +74,7 @@ Education
 
 ---
 
-Teaching Experience
-======
+## <i class="fas fa-fw fa-chalkboard-user"></i> Teaching Experience
 
 - CSE 1106: Introduction to Computer Science & Engineering (Spring 2026)
 - CSE 1106: Introduction to Computer Science & Engineering (Fall 2025)
@@ -88,8 +83,7 @@ Teaching Experience
 
 ---
 
-Honors & Awards
-======
+## <i class="fas fa-fw fa-trophy"></i> Honors & Awards
 
 - **Best Student Paper Award**, IEEE International Joint Conference on Biometrics (IJCB), 2023
 - **Winner**, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, 2023
@@ -101,8 +95,7 @@ Honors & Awards
 
 ---
 
-Academic Services
-======
+## <i class="fas fa-fw fa-users"></i> Academic Services
 
 **Conference Reviewer:** MICCAI 2025–2026, AAAI 2026
 

@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Haiqing Li"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, SMILE Lab @ University of Texas at Arlington. Biometrics (iris/sclera), deepfake, and medical image analysis."
+  bio              : "PhD student, SMILE Lab @ University of Texas at Arlington. LLM Alignment, Medical Image Analysis, and Biometrics."
   location         : "Arlington, TX"
   employer         : "University of Texas at Arlington"
   uri              : # URL
-  email            : "Haiqing.Li1998@outlook.com" 
+  email            : "hxl9110@mavs.uta.edu" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
