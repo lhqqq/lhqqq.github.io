@@ -22,7 +22,7 @@ repository               : "lhqqq/lhqqq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Haiqing Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, SMILE Lab @ University of Texas at Arlington. LLM Alignment, Medical Image Analysis, and Biometrics."
