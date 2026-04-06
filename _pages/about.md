@@ -1,300 +1,514 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "PhD student focused on biometric image analysis, medical image computing, and multi-modal learning."
-author_profile: true
+excerpt: "PhD student focused on biometrics, medical image analysis, LLM, and NLP."
+author_profile: false
+classes: wide
 redirect_from:
   - /about/
   - /about.html
 ---
 
+<div class="onepage fj" style="max-width: 980px; margin: 0 auto;">
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" id="top" style="padding: 1.2rem 0 0.6rem 0;">
+    <div class="hero-grid" style="display: grid; grid-template-columns: 1.4fr 0.6fr; gap: 1.6rem; align-items: start;">
+
+      <div class="hero-main">
+        <h1 style="font-size: 2.35rem; font-weight: 800; margin: 0 0 0.4rem 0; color: #111;">
+          Haiqing Li
+        </h1>
+
+        <div class="hero-meta" style="font-size: 1.02rem; line-height: 1.45; color: #444; margin: 0.15rem 0;">
+          PhD Student in Computer Science
+        </div>
+        <div class="hero-meta" style="font-size: 1.02rem; line-height: 1.45; color: #444; margin: 0.15rem 0;">
+          SMILE Lab, University of Texas at Arlington
+        </div>
+        <div class="hero-meta" style="font-size: 1.02rem; line-height: 1.45; color: #444; margin: 0.15rem 0;">
+          Arlington, TX, USA
+        </div>
+        <div class="hero-meta" style="font-size: 1.02rem; line-height: 1.45; color: #444; margin: 0.15rem 0;">
+          Email: <a href="mailto:hxl9110@mavs.uta.edu">hxl9110@mavs.uta.edu</a>
+        </div>
+
+        <div class="hero-links" style="margin-top: 0.5rem; font-size: 0.98rem;">
+          <a href="https://scholar.google.com/citations?user=Rc0GsFAAAAAJ&hl=zh-CN">Google Scholar</a>
+          <span style="margin: 0 0.5rem; color: #aaa;">|</span>
+          <a href="https://github.com/lhqqq">GitHub</a>
+        </div>
+
+        <p class="subtitle" style="margin-top: 0.85rem; font-size: 1.0rem; line-height: 1.65; color: #333; max-width: 62ch;">
+          I am a second-year PhD student in Computer Science at the University of Texas at Arlington,
+          advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>.
+          I received my M.S. from Beijing University of Civil Engineering and Architecture, advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>.
+        </p>
+
+        <ul class="quick-nav" style="display: flex; gap: 0.9rem; flex-wrap: wrap; margin: 0.9rem 0 0 0; padding: 0; list-style: none;">
+          <li><a href="#research" style="display:inline-block; padding:0.28rem 0.6rem; border:1px solid #e5e7eb; border-radius:999px; text-decoration:none; color:#1f2937; font-size:0.92rem;">Research</a></li>
+          <li><a href="#publications" style="display:inline-block; padding:0.28rem 0.6rem; border:1px solid #e5e7eb; border-radius:999px; text-decoration:none; color:#1f2937; font-size:0.92rem;">Publications</a></li>
+          <li><a href="#experience" style="display:inline-block; padding:0.28rem 0.6rem; border:1px solid #e5e7eb; border-radius:999px; text-decoration:none; color:#1f2937; font-size:0.92rem;">Experience</a></li>
+          <li><a href="#education" style="display:inline-block; padding:0.28rem 0.6rem; border:1px solid #e5e7eb; border-radius:999px; text-decoration:none; color:#1f2937; font-size:0.92rem;">Education</a></li>
+          <li><a href="#teaching" style="display:inline-block; padding:0.28rem 0.6rem; border:1px solid #e5e7eb; border-radius:999px; text-decoration:none; color:#1f2937; font-size:0.92rem;">Teaching</a></li>
+          <li><a href="#honors" style="display:inline-block; padding:0.28rem 0.6rem; border:1px solid #e5e7eb; border-radius:999px; text-decoration:none; color:#1f2937; font-size:0.92rem;">Honors</a></li>
+        </ul>
+      </div>
+
+      <div class="hero-side">
+        <img src="/images/profile.png" alt="Portrait of Haiqing Li"
+             style="width: 100%; max-width: 220px; border-radius: 14px; border: 1px solid #eee;">
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== NEWS ===================== -->
+  <div class="seeking-news" style="margin-top: 0.6rem;">
+    <p style="margin: 0; background-color: #f8f9fa; border-left: 5px solid #007bff; padding: 14px 16px; border-radius: 10px; line-height: 1.6;">
+      <strong>📢 News:</strong> I am actively seeking <strong>Summer/Fall 2026 Internships</strong>.
+      My research focuses on <strong>LLM Rule-Following (World Models/Alignment)</strong>,
+      <strong>Multimodal Learning for Healthcare</strong>, and <strong>Secure Biometric Analysis</strong>.
+      With a track record of bridging <strong>CV and NLP</strong>,
+      I am eager to contribute to cutting-edge AI research.
+      Please feel free to <a href="mailto:hxl9110@mavs.uta.edu">reach out</a>!
+    </p>
+  </div>
+
+  <!-- ===================== RESEARCH ===================== -->
+  <section id="research" style="margin-top: 2.2rem;">
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🔬</span>
+  Research Interests
+</h3>
+
+
+    <ul class="simple-list" style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>LLM Rule-Following:</strong> World Model-based Alignment, Structured Prompt Optimization, and Guideline-driven Reasoning
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Medical Image Analysis:</strong> Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Biometrics &amp; Security:</strong> Robust Ocular Recognition and Multi-scenario Deepfake Forensics
+      </li>
+    </ul>
+  </section>
+
+  <!-- ===================== PUBLICATIONS ===================== -->
+  <section id="publications" style="margin-top: 2.2rem;">
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">📚</span>
+  Publications
+</h3>
+
+
+    <h4 style="font-size: 1.22rem; font-weight: 750; margin: 1.25rem 0 0.6rem 0; color: #2b2b2b;">
+      2026 (Selected Preprints &amp; Conference)
+    </h4>
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+     <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    AAAI'26
+  </span> Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang.
+        “Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks.”
+        <em style="color:#444;">The 40th AAAI Conference on Artificial Intelligence (AAAI)</em>, 2026.
+      </li>
+    </ul>
+
+    <h4 style="font-size: 1.22rem; font-weight: 750; margin: 1.25rem 0 0.6rem 0; color: #2b2b2b;">
+      2025
+    </h4>
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    MICCAI'25
+  </span>Thao M. Dang, <strong>Haiqing Li</strong>, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuawei Miao, Qifeng Zhou, Junzhou Huang.
+        "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics."
+        <em style="color:#444;">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    MICCAI'25
+  </span><strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Junzhou Huang.
+        "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis."
+        <em style="color:#444;">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</em>, 2025.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+   Arxiv
+  </span>Qifeng Zhou, Thao M. Dang, Wenliang Zhong, Yuzhi Guo, Hehuan Ma, Saiyang Na, <strong>Haiqing Li</strong>, Junzhou Huang.
+        "Mllm4pue: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs."
+        <em style="color:#444;">arXiv preprint arXiv:2502.07221</em>, 2025.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    Arxiv
+  </span><strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang.
+        "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification."
+        <em style="color:#444;">arXiv preprint arXiv:2504.03894</em>, 2025.
+      </li>
+    </ul>
+
+    <h4 style="font-size: 1.22rem; font-weight: 750; margin: 1.25rem 0 0.6rem 0; color: #2b2b2b;">
+      2024
+    </h4>
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    T-BIOM'24
+  </span> Caiyong Wang, <strong>Haiqing Li</strong> (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun.
+        "Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition."
+        <em style="color:#444;">IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</em>, 2024.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        Yixin Zhang, Caiyong Wang, <strong>Haiqing Li</strong>, Xianyun Sun, Qichuan Tian, and Guangzhe Zhao.
+        "OcularSeg: Accurate and Efficient Multi-modal Ocular Segmentation in Non-constrained Scenarios."
+        <em style="color:#444;">Electronics</em>, 13(10), 1967, 2024.
+      </li>
+    </ul>
+
+    <h4 style="font-size: 1.22rem; font-weight: 750; margin: 1.25rem 0 0.6rem 0; color: #2b2b2b;">
+      2023
+    </h4>
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    IJCB'23
+  </span><strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun.
+        "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation."
+        <em style="color:#444;">IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023.
+        <strong style="color: #c00;">(Best Student Paper Award)</strong>
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    NCAA'23
+  </span>Caiyong Wang, <strong>Haiqing Li</strong> (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He.
+        "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation."
+        <em style="color:#444;">Neural Computing and Applications</em>, 2023.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+         <span style="
+    display:inline-flex;
+    align-items:center;
+    padding:2px 10px;
+    margin-right:10px;
+    border-radius:999px;
+    font-size:0.85rem;
+    font-weight:700;
+    color:#fff;
+    background:#007bff;
+    vertical-align:middle;
+  ">
+    IJCB'23
+  </span>Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, <strong>Haiqing Li</strong>, Caiyong Wang, Guangzhao Zhao, et al.
+        "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023."
+        <em style="color:#444;">IEEE International Joint Conference on Biometrics (IJCB)</em>, 2023.
+      </li>
+    </ul>
+  </section>
+
+  <!-- ===================== EXPERIENCE ===================== -->
+  <section id="experience" style="margin-top: 2.2rem;">
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">💼</span>
+  Research Experience
+</h3>
+
+
+    <div style="margin-bottom: 2rem;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;">
+        <h4 style="font-size: 1.3rem; font-weight: 750; margin: 0; color: #243447;">
+          Institute of Automation, Chinese Academy of Sciences (CASIA)
+        </h4>
+        <span style="font-size: 0.95rem; color: #777; white-space: nowrap;">Beijing, China</span>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-top: 0.25rem;">
+        <span style="font-size: 0.98rem; font-weight: 550; color: #444;">
+          Research Intern (Advised by Prof. Yunlong Wang)
+        </span>
+        <span style="font-size: 0.92rem; color: #888; white-space: nowrap;">Mar 2023 – Jul 2023</span>
+      </div>
+
+      <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+        <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+          Researched <strong>multi-modal ocular recognition</strong> across iris, sclera, and periocular signals to enhance biometric robustness in unconstrained scenarios.
+        </li>
+        <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+          <strong>Outcome:</strong> This work led to the development of “Sclera-TransFuse,” which received the <strong>Best Student Paper Award</strong> at IJCB 2023.
+        </li>
+      </ul>
+    </div>
+
+    <div style="margin-bottom: 0.4rem;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;">
+        <h4 style="font-size: 1.3rem; font-weight: 750; margin: 0; color: #243447;">
+          Institute of Automation, Chinese Academy of Sciences (CASIA)
+        </h4>
+        <span style="font-size: 0.95rem; color: #777; white-space: nowrap;">Beijing, China</span>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-top: 0.25rem;">
+        <span style="font-size: 0.98rem; font-weight: 550; color: #444;">
+          Research Intern (Advised by Prof. Xiangyu Zhu)
+        </span>
+        <span style="font-size: 0.92rem; color: #888; white-space: nowrap;">Jul 2021 – Sep 2021</span>
+      </div>
+
+      <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+        <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+          Developed <strong>Face Presentation Attack Detection (PAD)</strong> systems utilizing hybrid CNN and Transformer architectures.
+        </li>
+        <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+          Evaluated model performance on large-scale biometric datasets to improve defense mechanisms against sophisticated spoofing attempts.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== EDUCATION ===================== -->
+  <section id="education" style="margin-top: 2.2rem;">
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🎓</span>
+  Education
+</h3>
+
+
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Ph.D. in Computer Science</strong>, University of Texas at Arlington, Sept 2024–present.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>M.Eng. in Mechanical Engineering</strong>, BUCEA, Sept 2021–Jun 2024 (GPA 89.82/100, top 10%).
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>B.E. in Electrical Engineering</strong>, Chengdu Technological University, Sept 2017–Jun 2021 (GPA 3.72/4.0, top 1%).
+      </li>
+    </ul>
+  </section>
+
+  <!-- ===================== TEACHING ===================== -->
+  <section id="teaching" style="margin-top: 2.2rem;">
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🧑‍🏫</span>
+  Teaching Experience
+</h3>
+
+
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        CSE 1106: Introduction to Computer Science &amp; Engineering (Spring 2026)
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        CSE 1106: Introduction to Computer Science &amp; Engineering (Fall 2025)
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        CSE 3310: Fundamentals of Software Engineering (Summer 2025)
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        CSE 4322: Software Project Management (Spring 2025)
+      </li>
+    </ul>
+  </section>
+
+  <!-- ===================== HONORS ===================== -->
+  <section id="honors" style="margin-top: 2.2rem; margin-bottom: 2.5rem;">
+    <h3 class="section-title" style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+  <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🏆</span>
+  Honors &amp; Awards
+</h3>
+
+
+    <ul style="margin: 0.6rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Best Student Paper Award</strong>, IEEE International Joint Conference on Biometrics (IJCB), 2023.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Winner</strong>, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, Jun 2023.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>National Second Prize &amp; National Third Prize</strong>, 22nd China Robotics and Artificial Intelligence Competition, CAAI, Jul 2020.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Honorable Mention</strong>, Mathematical Contest in Modeling (MCM/ICM), COMAP, Apr 2020.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Finalist</strong>, Academy Award of China Advertising Art Festival for College Students, Mar 2020.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>First Prize</strong>, National Preliminary Competition of Siemens Cup China Intelligent Manufacturing Challenge, Jul 2019.
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; margin: 0.35rem 0; color: #2f2f2f;">
+        <strong>Most Impactful Project</strong>, Chinese College Students’ Volunteer Activities for the Rural Revitalization, 2018.
+      </li>
+    </ul>
+  </section>
+<!-- ===================== ACADEMIC SERVICES ===================== -->
+<section id="academic-services" style="margin-top: 2.2rem;">
+  <h3 class="section-title"
+      style="font-size: 1.55rem; font-weight: 750; margin: 0 0 1rem 0; padding-left: 14px; border-left: 5px solid #007bff; color: #243447;">
+    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🧭</span>
+    Academic Services
+  </h3>
+
+  <!-- Conference Reviewer -->
+  <div style="margin-bottom: 0.9rem;">
+    <div style="font-size: 1.02rem; font-weight: 650; color: #2f2f2f; margin-bottom: 0.35rem;">
+      Conference Reviewer
+    </div>
+    <ul style="margin: 0.2rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        MICCAI 2025–2026
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        AAAI 2026
+      </li>
+    </ul>
+  </div>
+
+  <!-- Journal Reviewer -->
+  <div>
+    <div style="font-size: 1.02rem; font-weight: 650; color: #2f2f2f; margin-bottom: 0.35rem;">
+      Journal Reviewer
+    </div>
+    <ul style="margin: 0.2rem 0 0 0; padding-left: 1.2rem;">
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Expert Systems with Applications
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Information Fusion
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Knowledge-Based Systems
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Neurocomputing
+      </li>
+      <li style="font-size: 0.98rem; line-height: 1.65; color: #2f2f2f;">
+        Optics and Laser Technology
+      </li>
+    </ul>
+  </div>
+</section>
+<!-- ===================== VISITOR MAP ===================== -->
+<!-- ===================== VISITOR MAP ===================== -->
+<section id="visitor-map" style="margin-top: 3rem; text-align: center;">
+  <h3 class="section-title"
+      style="font-size: 1.55rem; font-weight: 750; margin: 0 auto 1rem auto;
+             padding-left: 14px; border-left: 5px solid #007bff;
+             color: #243447; display: inline-block;">
+    <span style="margin-right:10px; font-size:1.15em; vertical-align:-2px;">🌍</span>
+    Visitor Map
+  </h3>
+
+  <div style="margin-top: 1rem;">
+    <a href="https://mapmyvisitors.com" target="_blank" rel="noopener"
+       style="display:inline-block;">
+      <img
+        src="https://mapmyvisitors.com/map.png?d=EkH5u6DzAVe2dAf0ph3ygYjMhrE1Q0UsUmaOQrVlDx8&cl=ffffff&w=520&t=tt"
+        alt="Visitor Map"
+        style="max-width: 92vw; height: auto; border: 1px solid #eee; border-radius: 8px;"
+      />
+    </a>
+  </div>
+</section>
+
+
+
+</div>
+
+<!-- Mobile fallback: stack hero if grid not supported -->
 <style>
-.profile-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 1.2em 0 2em;
-}
-.profile-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 5px 14px;
-  border: 1px solid #ccc;
-  border-radius: 20px;
-  font-size: 0.85em;
-  text-decoration: none !important;
-  color: #444 !important;
-  transition: all 0.18s;
-  background: #fff;
-}
-.profile-link:hover {
-  border-color: #52adc8;
-  color: #52adc8 !important;
-  background: #f4fafc;
-  text-decoration: none !important;
-}
-
-.hp-section {
-  margin-top: 2em;
-}
-.hp-section h2 {
-  font-size: 1.05em;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #52adc8;
-  border-bottom: 1px solid #e0eef3;
-  padding-bottom: 0.35em;
-  margin-bottom: 0.9em;
-}
-
-.edu-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.edu-list li {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 0.5em 1.5em;
-  padding: 0.45em 0;
-  border-bottom: 1px solid #f2f3f3;
-  flex-wrap: wrap;
-}
-.edu-list li:last-child { border-bottom: none; }
-.edu-main { flex: 1; min-width: 0; }
-.edu-degree { font-weight: 600; color: #333; font-size: 0.95em; }
-.edu-school { color: #555; font-size: 0.88em; margin-top: 1px; }
-.edu-date {
-  white-space: nowrap;
-  color: #888;
-  font-size: 0.82em;
-  flex-shrink: 0;
-}
-
-.pub-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.pub-list li {
-  padding: 0.65em 0 0.65em 0.9em;
-  border-left: 3px solid #d0e8f0;
-  margin-bottom: 0.7em;
-  line-height: 1.55;
-  font-size: 0.93em;
-}
-.pub-title { font-weight: 600; color: #222; }
-.pub-authors { color: #555; }
-.pub-venue { color: #2f7f93; font-style: italic; }
-.pub-badge {
-  display: inline-block;
-  padding: 1px 8px;
-  background: #fff8e1;
-  border: 1px solid #ffe082;
-  border-radius: 10px;
-  font-size: 0.78em;
-  color: #795548;
-  margin-left: 4px;
-  vertical-align: middle;
-  white-space: nowrap;
-}
-
-.exp-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.exp-list li {
-  padding: 0.5em 0;
-  border-bottom: 1px solid #f2f3f3;
-  font-size: 0.93em;
-  line-height: 1.55;
-}
-.exp-list li:last-child { border-bottom: none; }
-.exp-role { font-weight: 600; color: #333; }
-.exp-org { color: #555; }
-.exp-date { color: #888; font-size: 0.85em; }
-
-.award-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  column-count: 1;
-}
-.award-list li {
-  padding: 0.3em 0;
-  font-size: 0.92em;
-  border-bottom: 1px solid #f5f5f5;
-  display: flex;
-  gap: 0.6em;
-  align-items: baseline;
-}
-.award-list li:last-child { border-bottom: none; }
-.award-list li::before {
-  content: "▸";
-  color: #52adc8;
-  flex-shrink: 0;
-  font-size: 0.8em;
-}
-
-.skill-row {
-  display: flex;
-  gap: 0.5em 1.5em;
-  flex-wrap: wrap;
-  align-items: baseline;
-  font-size: 0.92em;
-  margin-bottom: 0.3em;
-}
-.skill-label { color: #666; font-weight: 600; min-width: 90px; }
-.skill-val { color: #333; }
+  @media (max-width: 820px) {
+    .hero-grid { grid-template-columns: 1fr !important; }
+  }
 </style>
-
-Hi! I am a first-year PhD student in Computer Science at the University of Texas at Arlington, advised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/) in the SMILE Lab. My current work focuses on **medical AI**, **biometrics**, and **large language models (LLMs)**. I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
-
-<div class="profile-links">
-  <a class="profile-link" href="mailto:Haiqing.Li1998@outlook.com"><i class="fas fa-fw fa-envelope"></i> Email</a>
-  <a class="profile-link" href="https://github.com/lhqqq"><i class="fab fa-fw fa-github"></i> GitHub</a>
-  <a class="profile-link" href="https://scholar.google.com/citations?user=Rc0GsFAAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a>
-</div>
-
-<div class="hp-section">
-<h2>Research Interests</h2>
-<ul>
-  <li>Medical AI</li>
-  <li>Biometrics (iris/sclera) and presentation attack detection</li>
-  <li>Large language models (LLMs)</li>
-</ul>
-</div>
-
-<div class="hp-section">
-<h2>Education</h2>
-<ul class="edu-list">
-  <li>
-    <div class="edu-main">
-      <div class="edu-degree">Ph.D. candidate — Computer Science</div>
-      <div class="edu-school">University of Texas at Arlington &nbsp;·&nbsp; Advisor: <a href="https://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>, Arlington, TX</div>
-    </div>
-    <span class="edu-date">Sep 2024 – present</span>
-  </li>
-  <li>
-    <div class="edu-main">
-      <div class="edu-degree">M.Eng. — Mechanical Engineering</div>
-      <div class="edu-school">Beijing University of Civil Engineering and Architecture, Beijing &nbsp;·&nbsp; GPA 89.82/100, top 10%</div>
-    </div>
-    <span class="edu-date">Sep 2021 – Jun 2024</span>
-  </li>
-  <li>
-    <div class="edu-main">
-      <div class="edu-degree">B.E. — Electrical Engineering and Automation</div>
-      <div class="edu-school">Chengdu Technological University, Chengdu &nbsp;·&nbsp; GPA 3.72/4.0, top 1%</div>
-    </div>
-    <span class="edu-date">Sep 2017 – Jun 2021</span>
-  </li>
-</ul>
-</div>
-
-<div class="hp-section">
-<h2>Publications</h2>
-<ul class="pub-list">
-  <li>
-    <div class="pub-title">Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis</div>
-    <div class="pub-authors"><strong>H. Li</strong>, Y. Guo, F. Jiang, T.M. Dang, H. Ma, Q. Zhou, J. Gao, J. Huang</div>
-    <div class="pub-venue">MICCAI 2025</div>
-  </li>
-  <li>
-    <div class="pub-title">HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics</div>
-    <div class="pub-authors">T.M. Dang, <strong>H. Li</strong>, Y. Guo, H. Ma, F. Jiang, Y. Miao, Q. Zhou, J. Gao, J. Huang</div>
-    <div class="pub-venue">MICCAI 2025</div>
-  </li>
-  <li>
-    <div class="pub-title">Leveraging Gait Patterns as Biomarkers: An Attention-Guided Deep Multiple Instance Learning Network for Scoliosis Classification</div>
-    <div class="pub-authors"><strong>H. Li</strong>, Y. Guo, F. Jiang, Q. Zhou, H. Ma, J. Huang</div>
-    <div class="pub-venue">arXiv 2025</div>
-  </li>
-  <li>
-    <div class="pub-title">MLLM4PUE: Toward Universal Embeddings in Digital Pathology Through Multimodal LLMs</div>
-    <div class="pub-authors">Q. Zhou, T.M. Dang, W. Zhong, Y. Guo, H. Ma, S. Na, <strong>H. Li</strong>, J. Huang</div>
-    <div class="pub-venue">arXiv 2025</div>
-  </li>
-  <li>
-    <div class="pub-title">Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation and Recognition</div>
-    <div class="pub-authors">C. Wang, <strong>H. Li</strong> (corresponding), G. Zhao, Z. He, Y. Wang, Z. Sun</div>
-    <div class="pub-venue">IEEE TBIOM, 2024</div>
-  </li>
-  <li>
-    <div class="pub-title">OcularSeg: Accurate and Efficient Multi-Modal Ocular Segmentation in Non-Constrained Scenarios</div>
-    <div class="pub-authors">Y. Zhang, C. Wang, <strong>H. Li</strong>, et al.</div>
-    <div class="pub-venue">Electronics, 2024</div>
-  </li>
-  <li>
-    <div class="pub-title">Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation <span class="pub-badge">&#9733; Best Student Paper</span></div>
-    <div class="pub-authors"><strong>H. Li</strong>, C. Wang, G. Zhao, Z. He, Y. Wang, Z. Sun</div>
-    <div class="pub-venue">IJCB 2023</div>
-  </li>
-  <li>
-    <div class="pub-title">Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023</div>
-    <div class="pub-authors">A. Das, S. Atreya, A. Mukherjee, M. Vitek, <strong>H. Li</strong>, et al.</div>
-    <div class="pub-venue">IJCB 2023</div>
-  </li>
-  <li>
-    <div class="pub-title">MetaScleraSeg: An Effective Meta Learning Framework for Generalized Sclera Segmentation</div>
-    <div class="pub-authors">C. Wang, <strong>H. Li</strong> (co-first), W. Ma, G. Zhao, Z. He</div>
-    <div class="pub-venue">Neural Comput. Appl., 2023</div>
-  </li>
-  <li>
-    <div class="pub-title">Research on Application of Computer Image Processing in Web Design</div>
-    <div class="pub-authors">Y. Zheng, <strong>H. Li</strong>, A. Ren</div>
-    <div class="pub-venue">IEEE ICPICS 2020</div>
-  </li>
-  <li>
-    <div class="pub-title">Inversion and Prediction of Ocean Resource Flow</div>
-    <div class="pub-authors"><strong>H. Li</strong>, X. Gao, Y. Zhao, M. Xu</div>
-    <div class="pub-venue">AJEEE, 2020</div>
-  </li>
-</ul>
-</div>
-
-<div class="hp-section">
-<h2>Research Experience</h2>
-<ul class="exp-list">
-  <li>
-    <div class="exp-role">Research on segmentation and recognition of ocular biometrics in unconstrained scenarios, BUCEA <span class="exp-date">— Jan 2021 – present</span></div>
-    <div class="exp-org">Designed meta-learning and Transformer+CNN two-stream methods for robust sclera segmentation/recognition; supported by NSFC (Grant No. 62106015).</div>
-  </li>
-  <li>
-    <div class="exp-role">Research on smart iris recognition systems, CASIA <span class="exp-date">— Mar 2023 – Jul 2023</span></div>
-    <div class="exp-org">Built multi-modal ocular recognition combining iris, sclera, periocular; explored fusion strategies to boost accuracy.</div>
-  </li>
-  <li>
-    <div class="exp-role">Research on DL-based insulator crack detection, CDTU <span class="exp-date">— Jun 2020 – May 2021</span></div>
-    <div class="exp-org">Led UAV-based real-time inspection system with deep learning crack detection; produced defect dataset and secured a patent.</div>
-  </li>
-  <li>
-    <div class="exp-role">Research Assistant Intern, CASIA <span class="exp-date">— Jul 2021 – Sep 2021</span></div>
-    <div class="exp-org">With <a href="https://xiangyuzhu-open.github.io/homepage/">Xiangyu Zhu</a>. Face presentation attack detection with CNN/Transformer on CASIA-SURF-CeFA.</div>
-  </li>
-</ul>
-</div>
-
-<div class="hp-section">
-<h2>Honors &amp; Awards</h2>
-<ul class="award-list">
-  <li>Winner, 8th Sclera Segmentation and Recognition Benchmarking Competition, IJCB 2023</li>
-  <li>National 2nd Prize &amp; 3rd Prize, 22nd China Robotics and AI Competition (CAAI), 2020</li>
-  <li>Honorable Mention, Mathematical Contest in Modeling (COMAP), 2020</li>
-  <li>Finalist, Academy Award of China Advertising Art Festival for College Students, 2020</li>
-  <li>1st Prize, Siemens Cup China Intelligent Manufacturing Challenge (National Preliminary), 2019</li>
-  <li>"Most Impactful Projects" list, Chinese College Students' Volunteer Activities, 2018</li>
-  <li>Multiple scholarships: National Encouragement Scholarship (2x), School-level First/Second Class, Innovation &amp; Entrepreneurship Scholarship</li>
-</ul>
-</div>
-
-<div class="hp-section">
-<h2>Skills</h2>
-<div class="skill-row"><span class="skill-label">Programming</span><span class="skill-val">C, C++, Python, MATLAB, Linux; PyTorch, TensorFlow</span></div>
-<div class="skill-row"><span class="skill-label">Tools</span><span class="skill-val">Visual Studio, PyCharm; Microsoft Office; CAD, Visio</span></div>
-<div class="skill-row"><span class="skill-label">Languages</span><span class="skill-val">Chinese (native), English</span></div>
-</div>
