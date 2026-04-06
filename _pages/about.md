@@ -12,7 +12,9 @@ I am a second-year PhD student in Computer Science at the **University of Texas 
 
 I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
 
-> 📢 **I am actively seeking Summer/Fall 2026 Internships.** My research focuses on **LLM Rule-Following (World Models/Alignment)**, **Multimodal Learning for Healthcare**, and **Secure Biometric Analysis**. Please feel free to [reach out](mailto:hxl9110@mavs.uta.edu)!
+<p style="background:#fff5f5; border-left:4px solid #cc0000; padding:0.8em 1em; border-radius:0 6px 6px 0; color:#7a0000;">
+📢 <strong style="color:#cc0000;">I am actively seeking Summer/Fall 2026 Internships.</strong> My research focuses on <strong>LLM Rule-Following (World Models/Alignment)</strong>, <strong>Multimodal Learning for Healthcare</strong>, and <strong>Secure Biometric Analysis</strong>. Please feel free to <a href="mailto:hxl9110@mavs.uta.edu" style="color:#cc0000;">reach out</a>!
+</p>
 
 ---
 
