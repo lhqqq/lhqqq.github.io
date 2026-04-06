@@ -22,6 +22,15 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 - **Biometrics & Security:** Robust Ocular Recognition and Multi-scenario Deepfake Forensics
 
 <style>
+/* Section headings */
+.page__content h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  color: #2563eb;
+  border-bottom: 2px solid #dbeafe;
+  padding-bottom: 0.3em;
+  letter-spacing: 0.01em;
+}
 .pub-venue {
   display: inline-block;
   font-family: Georgia, "Times New Roman", serif;
