@@ -22,12 +22,19 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 - **Biometrics & Security:** Robust Ocular Recognition and Multi-scenario Deepfake Forensics
 
 <style>
-/* Section headings */
+/* ── Nature-inspired palette ──────────────────────
+   Primary navy  : #003366
+   Accent red    : #CC0000
+   Teal          : #006E6E
+   Warm grey     : #4A4A4A
+   Light rule    : #C8D8E8
+──────────────────────────────────────────────── */
+
 .page__content h2 {
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 700;
-  color: #2563eb;
-  border-bottom: 2px solid #dbeafe;
+  color: #003366;
+  border-bottom: 2px solid #c8d8e8;
   padding-bottom: 0.3em;
   letter-spacing: 0.01em;
 }
@@ -43,10 +50,14 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
   vertical-align: middle;
   letter-spacing: 0.02em;
 }
-.pv-conf  { background: #e8f0fe; color: #1a56a0; border: 1px solid #b3cdf5; }
-.pv-jour  { background: #e6f4ea; color: #1a6e35; border: 1px solid #a8d5b5; }
-.pv-arxiv { background: #fef3e2; color: #8b5a00; border: 1px solid #f5cc80; }
-.pub-award { color: #c0392b; font-weight: 700; }
+/* Conference — Nature navy */
+.pv-conf  { background: #e6ecf5; color: #003366; border: 1px solid #a0b8d8; }
+/* Journal — Nature teal */
+.pv-jour  { background: #e2f0f0; color: #005555; border: 1px solid #8ec8c8; }
+/* Preprint — warm grey */
+.pv-arxiv { background: #f2f0eb; color: #4a3f2f; border: 1px solid #c8bfa8; }
+/* Award — Nature red */
+.pub-award { color: #cc0000; font-weight: 700; }
 </style>
 
 ---
