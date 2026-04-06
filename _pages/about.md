@@ -21,31 +21,50 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 - **Medical Image Analysis:** Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation
 - **Biometrics & Security:** Robust Ocular Recognition and Multi-scenario Deepfake Forensics
 
+<style>
+.pub-venue {
+  display: inline-block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 0.82em;
+  padding: 2px 9px;
+  border-radius: 4px;
+  margin-right: 6px;
+  vertical-align: middle;
+  letter-spacing: 0.02em;
+}
+.pv-conf  { background: #e8f0fe; color: #1a56a0; border: 1px solid #b3cdf5; }
+.pv-jour  { background: #e6f4ea; color: #1a6e35; border: 1px solid #a8d5b5; }
+.pv-arxiv { background: #fef3e2; color: #8b5a00; border: 1px solid #f5cc80; }
+.pub-award { color: #c0392b; font-weight: 700; }
+</style>
+
 ---
 
 ## <i class="fas fa-fw fa-book-open"></i> Publications
 
 **2026**
 
-- Wenliang Zhong, **Haiqing Li**, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." *AAAI*, 2026.
+- <span class="pub-venue pv-conf">AAAI'26</span> Wenliang Zhong, **Haiqing Li**, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." *AAAI*, 2026.
 
 **2025**
 
-- Thao M. Dang, **Haiqing Li**, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuawei Miao, Qifeng Zhou, Junzhou Huang. "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics." *MICCAI*, 2025.
-- **Haiqing Li**, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Junzhou Huang. "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis." *MICCAI*, 2025.
-- Qifeng Zhou, Thao M. Dang, Wenliang Zhong, Yuzhi Guo, Hehuan Ma, Saiyang Na, **Haiqing Li**, Junzhou Huang. "Mllm4pue: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs." *arXiv:2502.07221*, 2025.
-- **Haiqing Li**, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang. "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification." *arXiv:2504.03894*, 2025.
+- <span class="pub-venue pv-conf">MICCAI'25</span> Thao M. Dang, **Haiqing Li**, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuawei Miao, Qifeng Zhou, Junzhou Huang. "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics." *MICCAI*, 2025.
+- <span class="pub-venue pv-conf">MICCAI'25</span> **Haiqing Li**, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Junzhou Huang. "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis." *MICCAI*, 2025.
+- <span class="pub-venue pv-arxiv">arXiv</span> Qifeng Zhou, Thao M. Dang, Wenliang Zhong, Yuzhi Guo, Hehuan Ma, Saiyang Na, **Haiqing Li**, Junzhou Huang. "Mllm4pue: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs." *arXiv:2502.07221*, 2025.
+- <span class="pub-venue pv-arxiv">arXiv</span> **Haiqing Li**, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang. "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification." *arXiv:2504.03894*, 2025.
 
 **2024**
 
-- Caiyong Wang, **Haiqing Li** (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition." *IEEE TBIOM*, 2024.
-- Yixin Zhang, Caiyong Wang, **Haiqing Li**, Xianyun Sun, Qichuan Tian, and Guangzhe Zhao. "OcularSeg: Accurate and Efficient Multi-modal Ocular Segmentation in Non-constrained Scenarios." *Electronics*, 13(10), 1967, 2024.
+- <span class="pub-venue pv-jour">TBIOM'24</span> Caiyong Wang, **Haiqing Li** (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition." *IEEE TBIOM*, 2024.
+- <span class="pub-venue pv-jour">Electronics'24</span> Yixin Zhang, Caiyong Wang, **Haiqing Li**, Xianyun Sun, Qichuan Tian, and Guangzhe Zhao. "OcularSeg: Accurate and Efficient Multi-modal Ocular Segmentation in Non-constrained Scenarios." *Electronics*, 13(10), 1967, 2024.
 
 **2023**
 
-- **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation." *IJCB*, 2023. **[Best Student Paper Award 🏆]**
-- Caiyong Wang, **Haiqing Li** (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He. "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation." *Neural Computing and Applications*, 2023.
-- Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, et al. "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023." *IJCB*, 2023.
+- <span class="pub-venue pv-conf">IJCB'23</span> **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation." *IJCB*, 2023. <span class="pub-award">🏆 Best Student Paper Award</span>
+- <span class="pub-venue pv-jour">NCA'23</span> Caiyong Wang, **Haiqing Li** (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He. "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation." *Neural Computing and Applications*, 2023.
+- <span class="pub-venue pv-conf">IJCB'23</span> Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, et al. "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023." *IJCB*, 2023.
 
 ---
 
