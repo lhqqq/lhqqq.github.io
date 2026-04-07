@@ -94,7 +94,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 ## <i class="fas fa-fw fa-flask"></i> Research Experience
 
 **Institute of Automation, Chinese Academy of Sciences (CASIA)** — Beijing, China  
-*Research Intern, advised by Prof. Yunlong Wang* | Mar 2023 – Jul 2023
+*Research Intern, advised by [Prof. Yunlong Wang](https://wylcasia.github.io/)* | Mar 2023 – Jul 2023
 - Researched **multi-modal ocular recognition** across iris, sclera, and periocular signals to enhance biometric robustness in unconstrained scenarios.
 - This work led to "Sclera-TransFuse," which received the **Best Student Paper Award** at IJCB 2023.
 
