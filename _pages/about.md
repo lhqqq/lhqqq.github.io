@@ -69,6 +69,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 **2026**
 
 - <span class="pub-venue pv-conf">AAAI'26</span> Wenliang Zhong, **Haiqing Li**, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." *AAAI*, 2026.
+- <span class="pub-venue pv-conf">MIDL'26</span> Yinhao Wu, Hengrui Zhao, **Haiqing Li**, Wenliang Zhong, Hehuan Ma, Yuzhi Guo, Dan Nguyen, Daniel X Yang, Steve B Jiang, Junzhou Huang. "Guideline-Informed MLLM Reasoning for Pathology-Aware Post-Operative Prostate CTV Segmentation." *Medical Imaging with Deep Learning (MIDL)*, 2026.
 
 **2025**
 
@@ -85,7 +86,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 **2023**
 
 - <span class="pub-venue pv-conf">IJCB'23</span> **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation." *IJCB*, 2023. <span class="pub-award">🏆 Best Student Paper Award</span>
-- <span class="pub-venue pv-jour">NCA'23</span> Caiyong Wang, **Haiqing Li** (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He. "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation." *Neural Computing and Applications*, 2023.
+- <span class="pub-venue pv-jour">NCA'23</span> Caiyong Wang, **Haiqing Li** (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He. "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation." *Neural Comput. Appl.*, 2023.
 - <span class="pub-venue pv-conf">IJCB'23</span> Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, et al. "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023." *IJCB*, 2023.
 
 ---
