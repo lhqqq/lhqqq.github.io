@@ -18,6 +18,12 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 
 ---
 
+## <i class="fas fa-fw fa-fire"></i> News
+- **04/2026:** One paper accepted by ACL 2026.
+- **11/2025:** One paper accepted by AAAI 2026.
+
+---
+
 ## <i class="fas fa-fw fa-microscope"></i> Research Interests
 - **LLM Rule-Following:** World Model-based Alignment, Structured Prompt Optimization, and Guideline-driven Reasoning
 - **Medical Image Analysis:** Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation
