@@ -73,7 +73,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 ## <i class="fas fa-fw fa-book-open"></i> Publications
 
 **2026**
-
+- <span class="pub-venue pv-conf">ACL'26</span> **Haiqing Li**, Wenliang Zhong, Yinhao Wu, Hehuan Ma, Yuzhi Guo, Thao M. Dang, and Junzhou Huang. "Guidelines as Environments: A World Model Approach to Rule Following." *ACL*, 2026.
 - <span class="pub-venue pv-conf">AAAI'26</span> Wenliang Zhong, **Haiqing Li**, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." *AAAI*, 2026.
 - <span class="pub-venue pv-conf">MIDL'26</span> Yinhao Wu, Hengrui Zhao, **Haiqing Li**, Wenliang Zhong, Hehuan Ma, Yuzhi Guo, Dan Nguyen, Daniel X Yang, Steve B Jiang, Junzhou Huang. "Guideline-Informed MLLM Reasoning for Pathology-Aware Post-Operative Prostate CTV Segmentation." *Medical Imaging with Deep Learning (MIDL)*, 2026.
 
