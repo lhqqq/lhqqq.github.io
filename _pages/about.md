@@ -148,7 +148,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 
 ## <i class="fas fa-fw fa-users"></i> Academic Services
 
-**Conference Reviewer:** MICCAI 2025–2026, AAAI 2026
+**Conference Reviewer:** MICCAI 2025–2026, AAAI 2026, NeurIPS 2026, IPMI 2027
 
 **Journal Reviewer:** Expert Systems with Applications · Information Fusion · Knowledge-Based Systems · Neurocomputing · Optics and Laser Technology
 
