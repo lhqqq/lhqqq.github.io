@@ -21,7 +21,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 ## <i class="fas fa-fw fa-fire"></i> News
 - **09/2026:** One paper accepted by BIBM 2026. Congratulations to Xiao!
 - **09/2026:** One paper accepted by NeurIPS 2026. Congratulations to Thao!
-- **09/2026:** One paper accepted by IEEE Transactions on Medical Imaging (TMI).
+- **09/2026:** One paper accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/document/11721224).
 - **05/2026:** One paper accepted by [MICCAI 2026](https://papers.miccai.org/miccai-2026/0521-Paper4240.html) for an **oral presentation**. Congratulations to Yinhao!
 - **04/2026:** One paper accepted by ACL 2026.
 - **11/2025:** One paper accepted by AAAI 2026.
@@ -77,6 +77,8 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 ## <i class="fas fa-fw fa-book-open"></i> Publications
 
 **2026**
+- <span class="pub-venue pv-jour">TMI'26</span> **Haiqing Li**, Yinhao Wu, Jingquan Yan, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Jean Gao, and Junzhou Huang. "[Uncertainty-Aware Multimodal Gait Representation Learning for Scoliosis Screening](https://ieeexplore.ieee.org/document/11721224)." *IEEE Transactions on Medical Imaging*, 2026.
+- <span class="pub-venue pv-conf">MICCAI'26</span> Yinhao Wu, **Haiqing Li**, Hehuan Ma, and Junzhou Huang. "[Joint Segmentation and Graph-Based Skeletal Representation Learning with Geometric Priors](https://papers.miccai.org/miccai-2026/0521-Paper4240.html)." *MICCAI*, 2026. <span class="pub-award">Oral Presentation</span>
 - <span class="pub-venue pv-conf">ACL'26</span> **Haiqing Li**, Wenliang Zhong, Yinhao Wu, Hehuan Ma, Yuzhi Guo, Thao M. Dang, and Junzhou Huang. "Guidelines as Environments: A World Model Approach to Rule Following." *ACL*, 2026.
 - <span class="pub-venue pv-conf">AAAI'26</span> Wenliang Zhong, **Haiqing Li**, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." *AAAI*, 2026.
 - <span class="pub-venue pv-conf">MIDL'26</span> Yinhao Wu, Hengrui Zhao, **Haiqing Li**, Wenliang Zhong, Hehuan Ma, Yuzhi Guo, Dan Nguyen, Daniel X Yang, Steve B Jiang, Junzhou Huang. "Guideline-Informed MLLM Reasoning for Pathology-Aware Post-Operative Prostate CTV Segmentation." *Medical Imaging with Deep Learning (MIDL)*, 2026.
