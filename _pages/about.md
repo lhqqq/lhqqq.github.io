@@ -22,7 +22,7 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 - **09/2026:** One paper accepted by BIBM 2026. Congratulations to Xiao!
 - **09/2026:** One paper accepted by NeurIPS 2026. Congratulations to Thao!
 - **09/2026:** One paper accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/document/11721224).
-- **05/2026:** One paper accepted by [MICCAI 2026](https://papers.miccai.org/miccai-2026/0521-Paper4240.html) for an **oral presentation**. Congratulations to Yinhao!
+- **05/2026:** One paper accepted by [MICCAI 2026](https://papers.miccai.org/miccai-2026/0521-Paper4240.html) (Oral). Congratulations to Yinhao!
 - **04/2026:** One paper accepted by ACL 2026.
 - **11/2025:** One paper accepted by AAAI 2026.
 
