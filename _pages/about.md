@@ -87,7 +87,6 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 
 - <span class="pub-venue pv-conf">MICCAI'25</span> Thao M. Dang, **Haiqing Li**, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuawei Miao, Qifeng Zhou, Junzhou Huang. "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics." *MICCAI*, 2025.
 - <span class="pub-venue pv-conf">MICCAI'25</span> **Haiqing Li**, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Junzhou Huang. "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis." *MICCAI*, 2025.
-- <span class="pub-venue pv-arxiv">arXiv</span> Qifeng Zhou, Thao M. Dang, Wenliang Zhong, Yuzhi Guo, Hehuan Ma, Saiyang Na, **Haiqing Li**, Junzhou Huang. "Mllm4pue: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs." *arXiv:2502.07221*, 2025.
 - <span class="pub-venue pv-arxiv">arXiv</span> **Haiqing Li**, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang. "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification." *arXiv:2504.03894*, 2025.
 
 **2024**
