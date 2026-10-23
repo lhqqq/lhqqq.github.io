@@ -138,6 +138,8 @@ I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.
 
 ## <i class="fas fa-fw fa-trophy"></i> Honors & Awards
 
+- **Travel Award**, ACL, 2026
+- **Travel Award**, MICCAI, 2025
 - **Best Student Paper Award**, IEEE International Joint Conference on Biometrics (IJCB), 2023
 - **Winner**, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, 2023
 - **National 2nd & 3rd Prize**, 22nd China Robotics and Artificial Intelligence Competition (CAAI), 2020
