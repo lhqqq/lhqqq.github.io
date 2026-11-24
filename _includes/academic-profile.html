@@ -1,0 +1,34 @@
+<aside class="profile-sidebar" aria-label="About {{ site.author.name }}">
+  <div class="profile-card">
+    <figure class="profile-portrait">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" width="208" height="208" alt="{{ site.author.name }}" fetchpriority="high">
+    </figure>
+    {% if page.url == '/' %}
+    <h1 class="profile-name">{{ site.author.name }}</h1>
+    {% else %}
+    <h2 class="profile-name">{{ site.author.name }}</h2>
+    {% endif %}
+    <p class="profile-role">Ph.D. Student in Computer Science</p>
+    <p class="profile-institution">SMILE Lab<br>University of Texas at Arlington</p>
+    <a class="profile-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+    <div class="profile-topics" aria-label="Research interests">
+      {% for area in site.data.homepage.research %}
+      <a href="{{ '/#research' | relative_url }}">{{ area.title }}</a>
+      {% endfor %}
+    </div>
+    <div class="profile-links" aria-label="Academic profiles and contact">
+      <a href="{{ site.author.googlescholar }}" aria-label="Google Scholar">
+        <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m2 8 10-5 10 5-10 5L2 8Z"/><path d="M6 10v6c3.5 3 8.5 3 12 0v-6M22 8v8"/></svg>
+        <span>Scholar</span>
+      </a>
+      <a href="https://github.com/{{ site.author.github }}" aria-label="GitHub">
+        <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M12 .75a11.25 11.25 0 0 0-3.56 21.92c.56.1.77-.24.77-.54v-2.1c-3.13.68-3.79-1.33-3.79-1.33-.51-1.3-1.25-1.65-1.25-1.65-1.02-.7.08-.69.08-.69 1.13.08 1.72 1.16 1.72 1.16 1.01 1.72 2.64 1.22 3.29.93.1-.73.4-1.22.72-1.5-2.5-.29-5.13-1.25-5.13-5.56 0-1.23.44-2.23 1.16-3.02-.12-.28-.5-1.43.11-2.98 0 0 .94-.3 3.09 1.15a10.78 10.78 0 0 1 5.62 0c2.15-1.45 3.09-1.15 3.09-1.15.61 1.55.23 2.7.11 2.98.72.79 1.16 1.79 1.16 3.02 0 4.32-2.64 5.26-5.15 5.54.4.35.76 1.04.76 2.1v3.1c0 .3.2.65.78.54A11.25 11.25 0 0 0 12 .75Z"/></svg>
+        <span>GitHub</span>
+      </a>
+      <a href="mailto:{{ site.author.email }}" aria-label="Email {{ site.author.name }}">
+        <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="4.5" width="19" height="15" rx="2"/><path d="m3.5 6 8.5 7 8.5-7"/></svg>
+        <span>Email</span>
+      </a>
+    </div>
+  </div>
+</aside>

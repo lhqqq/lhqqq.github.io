@@ -10,31 +10,10 @@ redirect_from:
 ---
 
 <section id="about" class="about-section" aria-labelledby="about-title">
-  <div class="about-intro">
-    <div class="about-copy">
-      <p class="eyebrow">Ph.D. Student · Computer Science</p>
-      <h1 id="about-title">Haiqing Li</h1>
-      <p class="affiliation">SMILE Lab <span aria-hidden="true">/</span> University of Texas at Arlington</p>
+  <div class="section-heading"><h2 id="about-title">About Me</h2></div>
+  <div class="about-copy">
       <p>I am a Ph.D. student in Computer Science at the <strong>University of Texas at Arlington</strong>, advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>. My research focuses on <strong>LLM rule-following</strong>, <strong>medical image analysis</strong>, and <strong>biometrics</strong>.</p>
       <p>Previously, I received my master’s degree from Beijing University of Civil Engineering and Architecture, advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>, and worked as a research intern at the Institute of Automation, Chinese Academy of Sciences.</p>
-      <div class="profile-links" aria-label="Contact and profiles">
-        <a class="contact-link" href="mailto:{{ site.author.email }}">Email</a>
-        <a href="{{ site.author.googlescholar }}">Google Scholar</a>
-        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
-      </div>
-    </div>
-    <figure class="portrait">
-      <img src="{{ '/images/profile.jpg' | relative_url }}" width="240" height="280" alt="Haiqing Li" fetchpriority="high">
-      <figcaption>Arlington, Texas</figcaption>
-    </figure>
-  </div>
-  <div class="research-interests" aria-label="Research interests">
-    {% for area in site.data.homepage.research %}
-    <div class="research-interest">
-      <h2>{{ area.title }}</h2>
-      <p>{{ area.description }}</p>
-    </div>
-    {% endfor %}
   </div>
   <details class="background-details">
     <summary>Education &amp; research experience</summary>
@@ -54,13 +33,30 @@ redirect_from:
   </details>
 </section>
 
-<section id="news" class="content-section" aria-labelledby="news-title">
-  <div class="section-heading"><h2 id="news-title">News</h2></div>
-  <ul class="news-list">
-    {% for item in site.data.homepage.news %}
-    <li><time datetime="{{ item.date }}">{{ item.date | append: '-01' | date: '%b %Y' }}</time><div>{{ item.text }}</div></li>
+<section id="research" class="content-section" aria-labelledby="research-title">
+  <div class="section-heading"><h2 id="research-title">Research</h2></div>
+  <p>My research spans language models, medical imaging, and biometric analysis. I work on the following directions:</p>
+  <ul class="research-list">
+    {% for area in site.data.homepage.research %}
+    <li><strong>{{ area.title }}</strong><span>{{ area.description }}</span></li>
     {% endfor %}
   </ul>
+</section>
+
+<section id="news" class="content-section" aria-labelledby="news-title">
+  <div class="section-heading"><h2 id="news-title">News</h2></div>
+  {% assign highlight = site.data.selected_publications | where: 'id', 'umgrl' | first %}
+  <aside class="news-highlight" aria-label="Featured research">
+    <p class="news-highlight-label">Research Highlight · {{ highlight.venue }}</p>
+    <p><a href="{{ highlight.paper_url }}">{{ highlight.title }}</a></p>
+  </aside>
+  <div class="news-panel" role="region" aria-labelledby="news-title" tabindex="0">
+    <ul class="news-list">
+    {% for item in site.data.homepage.news %}
+    <li><time datetime="{{ item.date }}">[{{ item.date | append: '-01' | date: '%b. %Y' }}]</time> <span>{{ item.text }}</span></li>
+    {% endfor %}
+    </ul>
+  </div>
 </section>
 
 <section id="publications" class="content-section" aria-labelledby="publications-title">

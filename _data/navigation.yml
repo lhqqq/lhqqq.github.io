@@ -10,11 +10,13 @@
 main:
   - title: "About"
     url: /#about
+  - title: "Research"
+    url: /#research
   - title: "News"
     url: /#news
-  - title: "Selected Publications"
+  - title: "Publications"
     url: /#publications
-  - title: "Service"
+  - title: "Services"
     url: /#service
-  - title: "Honors & Awards"
+  - title: "Honors"
     url: /#awards
