@@ -46,10 +46,9 @@ redirect_from:
 
 <section id="news" class="content-section" aria-labelledby="news-title">
   <div class="section-heading"><h2 id="news-title">News</h2></div>
-  {% assign highlight = site.data.selected_publications | where: 'id', 'umgrl' | first %}
-  <aside class="news-highlight" aria-label="Featured research">
-    <p class="news-highlight-label">Research Highlight · {{ highlight.venue }}</p>
-    <p><a href="{{ highlight.paper_url }}">{{ highlight.title }}</a></p>
+  <aside class="news-highlight" aria-label="Internship opportunities">
+    <p class="news-highlight-label">Seeking Internship Opportunities</p>
+    <p>I am actively seeking research internships in <strong>LLM rule-following</strong>, <strong>medical image analysis</strong>, and <strong>biometrics</strong>. Please feel free to <a href="mailto:{{ site.author.email }}">contact me</a>.</p>
   </aside>
   <div class="news-panel" role="region" aria-labelledby="news-title" tabindex="0">
     <ul class="news-list">
