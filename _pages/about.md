@@ -43,6 +43,7 @@ redirect_from:
   </ul>
 </section>
 
+
 <section id="news" class="content-section" aria-labelledby="news-title">
   <div class="section-heading"><h2 id="news-title">News</h2></div>
   {% assign highlight = site.data.selected_publications | where: 'id', 'umgrl' | first %}
@@ -100,3 +101,10 @@ redirect_from:
     {% endfor %}
   </ul>
 </section>
+
+<!-- Preserve the original MapMyVisitors identifier when updating this widget. -->
+<div class="visitor-map">
+  <a href="https://mapmyvisitors.com" target="_blank" rel="noopener" aria-label="View visitor map (opens in a new tab)">
+    <img src="https://mapmyvisitors.com/map.png?d=EkH5u6DzAVe2dAf0ph3ygYjMhrE1Q0UsUmaOQrVlDx8&amp;cl=ffffff&amp;w=520&amp;t=tt" alt="Visitor Map" loading="lazy" decoding="async">
+  </a>
+</div>
