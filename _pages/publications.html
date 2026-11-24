@@ -1,36 +1,39 @@
 ---
-layout: archive
+layout: academic
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
+excerpt: "Publications by Haiqing Li in LLM rule-following, medical image analysis, and biometrics."
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+<div class="archive-intro">
+  <p class="eyebrow">Research</p>
+  <h1>Publications</h1>
+  <p>The complete publication list, including conference papers, journal articles, and preprints. See also <a href="{{ site.author.googlescholar }}">Google Scholar</a> or return to <a href="{{ '/#publications' | relative_url }}">selected publications</a>.</p>
+</div>
+<section aria-labelledby="year-2026">
+  <h2 class="archive-year" id="year-2026">2026</h2>
+  {% for paper in site.data.publication_archive_2026 %}
+  <article class="archive-entry" id="{{ paper.id }}">
+    <h3>{% if paper.paper_url %}<a href="{{ paper.paper_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+    <p>{{ paper.authors }}</p>
+    <p><em>{{ paper.venue }}</em>{% if paper.award %} <span class="paper-award">· {{ paper.award }}</span>{% endif %}</p>
+  </article>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+</section>
+{% assign publications = site.publications | sort: 'date' | reverse %}
+{% assign previous_year = '' %}
+{% for post in publications %}
+  {% assign year = post.date | date: '%Y' %}
+  {% if year != previous_year %}
+    {% unless forloop.first %}</section>{% endunless %}
+    <section aria-labelledby="year-{{ year }}">
+      <h2 class="archive-year" id="year-{{ year }}">{{ year }}</h2>
+    {% assign previous_year = year %}
+  {% endif %}
+  <article class="archive-entry">
+    <h3><a href="{% if post.paperurl %}{{ post.paperurl }}{% else %}{{ post.url | append: '.html' | relative_url }}{% endif %}">{{ post.title }}</a></h3>
+    {% if post.citation %}<p>{{ post.citation }}</p>{% endif %}
+    <p><em>{{ post.venue }}</em></p>
+  </article>
+  {% if forloop.last %}</section>{% endif %}
+{% endfor %}

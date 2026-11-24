@@ -1,0 +1,43 @@
+# Only these representative papers appear on the homepage.
+# Figure provenance: images/publications/sources.yml.
+- id: guidelines
+  title: "Guidelines as Environments: A World Model Approach to Rule Following"
+  authors: "<strong>Haiqing Li</strong>, Wenliang Zhong, Yinhao Wu, Hehuan Ma, Yuzhi Guo, Thao M. Dang, and Junzhou Huang"
+  venue: ACL 2026
+  image: /images/publications/guidelines.webp
+  image_alt: "RGCWM framework showing static rule world construction, explicit world states, and a world-model-driven reasoning loop."
+  description: "A rule-guided causal world model for reasoning with interdependent and conflicting guidelines."
+  paper_url: https://aclanthology.org/2026.acl-long.741/
+  pdf_url: https://aclanthology.org/2026.acl-long.741.pdf
+
+- id: umgrl
+  title: "Uncertainty-Aware Multimodal Gait Representation Learning for Scoliosis Screening"
+  authors: "<strong>Haiqing Li</strong>, Yinhao Wu, Jingquan Yan, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Jean Gao, and Junzhou Huang"
+  venue: IEEE TMI 2026
+  image: /images/publications/umgrl.webp
+  image_alt: "UMGRL uncertainty-aware dual-fusion framework combining gait representations and evidential uncertainty for scoliosis screening."
+  description: "Modality-robust representation learning and uncertainty-aware fusion for gait-based scoliosis screening."
+  paper_url: https://ieeexplore.ieee.org/document/11721224
+  code_url: https://github.com/lhqqq/UMGRL
+
+- id: tg-milnet
+  title: "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis"
+  authors: "<strong>Haiqing Li</strong>, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Jean Gao, and Junzhou Huang"
+  venue: MICCAI 2025
+  image: /images/publications/tg-milnet.webp
+  image_alt: "TG-MILNet flowchart with DTW-based gait clustering, text guidance, boundary-aware classification, and inter-bag temporal attention."
+  description: "Clinical text guidance and temporal attention for non-invasive scoliosis screening from gait videos."
+  paper_url: https://papers.miccai.org/miccai-2025/0920-Paper3185.html
+  pdf_url: https://papers.miccai.org/miccai-2025/paper/3185_paper.pdf
+  code_url: https://github.com/lhqqq/TG-MILNet
+
+- id: sclera-transfuse
+  title: "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation"
+  authors: "<strong>Haiqing Li</strong>, Caiyong Wang, Guangzhe Zhao, Zhaofeng He, Yunlong Wang, and Zhenan Sun"
+  venue: IJCB 2023
+  award: Best Student Paper Award
+  image: /images/publications/sclera-transfuse.webp
+  image_alt: "Sclera-TransFuse two-stream architecture fusing Swin Transformer features and CNN features for sclera segmentation."
+  description: "A hybrid Transformer–CNN framework that combines global context with local ocular details."
+  paper_url: https://ieeexplore.ieee.org/document/10448814
+  code_url: https://github.com/lhqqq/Sclera-TransFuse

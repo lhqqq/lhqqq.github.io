@@ -1,0 +1,17 @@
+# Original research figures, used on the author's own academic homepage.
+guidelines.webp:
+  source: https://aclanthology.org/2026.acl-long.741.pdf
+  figure: "Figure 2, page 3"
+  extraction: "PDF crop in points [73, 71, 520, 353], rendered at 2.5x, WebP quality 92"
+tg-milnet.webp:
+  source: https://papers.miccai.org/miccai-2025/paper/3185_paper.pdf
+  figure: "Figure 2, page 4"
+  extraction: "PDF crop in points [159, 120, 454, 409], rendered at 2.5x, WebP quality 92"
+umgrl.webp:
+  source: "Author's local tmi_flat.pptx, slide 3"
+  figure: "Uncertainty-Aware Dual-Fusion Framework"
+  extraction: "LibreOffice PDF export; slide crop [8, 10, 948, 387], rendered at 1.5x, WebP quality 92"
+sclera-transfuse.webp:
+  source: https://nlpr-sir.github.io/publication/haiqing-ijcb-2023/
+  image_url: https://nlpr-sir.github.io/publication/haiqing-ijcb-2023/featured_hu3d830cdf43d1558ff01e3a83a335f2b9_299687_720x0_resize_lanczos_2.png
+  extraction: "Original lab-published method figure converted to WebP quality 92"

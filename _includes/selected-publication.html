@@ -1,0 +1,20 @@
+<article class="publication" aria-labelledby="pub-{{ include.paper.id }}">
+  <a class="publication-figure" href="{{ include.paper.image | relative_url }}" target="_blank" rel="noopener" aria-label="View method figure for {{ include.paper.title | escape }} (opens in a new tab)">
+    <img src="{{ include.paper.image | relative_url }}" alt="{{ include.paper.image_alt | escape }}" width="640" height="440" loading="lazy" decoding="async">
+    <span class="figure-hint">View method figure</span>
+  </a>
+  <div class="publication-content">
+    <div class="publication-meta">
+      <span class="venue">{{ include.paper.venue }}</span>
+      {% if include.paper.award %}<span class="paper-award">{{ include.paper.award }}</span>{% endif %}
+    </div>
+    <h3 id="pub-{{ include.paper.id }}"><a href="{{ include.paper.paper_url | relative_url }}">{{ include.paper.title }}</a></h3>
+    <p class="publication-authors">{{ include.paper.authors }}</p>
+    <p class="publication-description">{{ include.paper.description }}</p>
+    <div class="publication-links" aria-label="Resources for {{ include.paper.title | escape }}">
+      <a href="{{ include.paper.paper_url | relative_url }}">Paper</a>
+      {% if include.paper.pdf_url %}<a href="{{ include.paper.pdf_url }}">PDF</a>{% endif %}
+      {% if include.paper.code_url %}<a href="{{ include.paper.code_url }}">Code</a>{% endif %}
+    </div>
+  </div>
+</article>

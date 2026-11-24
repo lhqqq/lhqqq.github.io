@@ -1,165 +1,106 @@
 ---
+layout: academic
 permalink: /
 title: "Haiqing Li"
-excerpt: "PhD student focused on biometrics, medical image analysis, LLM, and NLP."
-author_profile: true
+excerpt: "Haiqing Li is a PhD student at the University of Texas at Arlington, researching LLM rule-following, medical image analysis, and biometrics."
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a second-year PhD student in Computer Science at the **University of Texas at Arlington**, advised by [Prof. Junzhou Huang](http://ranger.uta.edu/~huang/) in the SMILE Lab. I received my M.S. from Beijing University of Civil Engineering and Architecture, advised by [Prof. Caiyong Wang](https://academia.caiyong.wang/). My current work focuses on **LLM Rule-Following**, **Medical Image Analysis**, and **Biometrics**.
+<section id="about" class="about-section" aria-labelledby="about-title">
+  <div class="about-intro">
+    <div class="about-copy">
+      <p class="eyebrow">Ph.D. Student · Computer Science</p>
+      <h1 id="about-title">Haiqing Li</h1>
+      <p class="affiliation">SMILE Lab <span aria-hidden="true">/</span> University of Texas at Arlington</p>
+      <p>I am a Ph.D. student in Computer Science at the <strong>University of Texas at Arlington</strong>, advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>. My research focuses on <strong>LLM rule-following</strong>, <strong>medical image analysis</strong>, and <strong>biometrics</strong>.</p>
+      <p>Previously, I received my master’s degree from Beijing University of Civil Engineering and Architecture, advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>, and worked as a research intern at the Institute of Automation, Chinese Academy of Sciences.</p>
+      <div class="profile-links" aria-label="Contact and profiles">
+        <a class="contact-link" href="mailto:{{ site.author.email }}">Email</a>
+        <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+      </div>
+    </div>
+    <figure class="portrait">
+      <img src="{{ '/images/profile.jpg' | relative_url }}" width="240" height="280" alt="Haiqing Li" fetchpriority="high">
+      <figcaption>Arlington, Texas</figcaption>
+    </figure>
+  </div>
+  <div class="research-interests" aria-label="Research interests">
+    {% for area in site.data.homepage.research %}
+    <div class="research-interest">
+      <h2>{{ area.title }}</h2>
+      <p>{{ area.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+  <details class="background-details">
+    <summary>Education &amp; research experience</summary>
+    <div class="background-content">
+      <h3>Education</h3>
+      <ul>
+        <li><strong>Ph.D. in Computer Science</strong> · University of Texas at Arlington · 2024–present</li>
+        <li><strong>M.Eng. in Mechanical Engineering</strong> · Beijing University of Civil Engineering and Architecture · 2021–2024</li>
+        <li><strong>B.E. in Electrical Engineering and Automation</strong> · Chengdu Technological University · 2017–2021</li>
+      </ul>
+      <h3>Research internships</h3>
+      <ul>
+        <li><strong>CASIA</strong> · Multimodal ocular recognition, advised by <a href="https://wylcasia.github.io/">Prof. Yunlong Wang</a> · Mar–Jul 2023</li>
+        <li><strong>CASIA</strong> · Face presentation attack detection, advised by <a href="https://xiangyuzhu-open.github.io/homepage/">Prof. Xiangyu Zhu</a> · Jul–Sep 2021</li>
+      </ul>
+    </div>
+  </details>
+</section>
 
-I won the IJCB 2023 [Best Student Paper Award](https://ijcb2023.ieee-biometrics.org/award-winners/) and the [8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023)](https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home?pli=1).
+<section id="news" class="content-section" aria-labelledby="news-title">
+  <div class="section-heading"><h2 id="news-title">News</h2></div>
+  <ul class="news-list">
+    {% for item in site.data.homepage.news %}
+    <li><time datetime="{{ item.date }}">{{ item.date | append: '-01' | date: '%b %Y' }}</time><div>{{ item.text }}</div></li>
+    {% endfor %}
+  </ul>
+</section>
 
-<p style="background:#fff5f5; border-left:4px solid #cc0000; padding:0.8em 1em; border-radius:0 6px 6px 0; color:#7a0000;">
-📢 <strong style="color:#cc0000;">I am actively seeking Summer/Fall 2026 Internships.</strong> My research focuses on <strong>LLM Rule-Following (World Models/Alignment)</strong>, <strong>Multimodal Learning for Healthcare</strong>, and <strong>Secure Biometric Analysis</strong>. Please feel free to <a href="mailto:hxl9110@mavs.uta.edu" style="color:#cc0000;">reach out</a>!
-</p>
+<section id="publications" class="content-section" aria-labelledby="publications-title">
+  <div class="section-heading">
+    <h2 id="publications-title">Selected Publications</h2>
+    <a class="section-link" href="{{ '/publications/' | relative_url }}">All publications</a>
+  </div>
+  <div class="publication-list">
+    {% for paper in site.data.selected_publications %}
+    {% include selected-publication.html paper=paper %}
+    {% endfor %}
+  </div>
+</section>
 
----
+<section id="service" class="content-section" aria-labelledby="service-title">
+  <div class="section-heading"><h2 id="service-title">Academic Service</h2></div>
+  <dl class="service-list">
+    <div><dt>Conference Reviewer</dt><dd>{{ site.data.homepage.conference_service }}</dd></div>
+    <div><dt>Journal Reviewer</dt><dd>{{ site.data.homepage.journal_service }}</dd></div>
+  </dl>
+  <details class="background-details">
+    <summary>Teaching at UT Arlington</summary>
+    <div class="background-content">
+      <ul>
+        <li><strong>CSE 1106</strong> · Introduction to Computer Science &amp; Engineering · Spring 2026, Fall 2025</li>
+        <li><strong>CSE 3310</strong> · Fundamentals of Software Engineering · Summer 2025</li>
+        <li><strong>CSE 4322</strong> · Software Project Management · Spring 2025</li>
+      </ul>
+    </div>
+  </details>
+</section>
 
-## <i class="fas fa-fw fa-fire"></i> News
-- **09/2026:** One paper accepted by BIBM 2026. Congratulations to Xiao!
-- **09/2026:** One paper accepted by NeurIPS 2026. Congratulations to Thao!
-- **09/2026:** One paper accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/document/11721224).
-- **05/2026:** One paper accepted by [MICCAI 2026](https://papers.miccai.org/miccai-2026/0521-Paper4240.html) (Oral). Congratulations to Yinhao!
-- **04/2026:** One paper accepted by ACL 2026.
-- **11/2025:** One paper accepted by AAAI 2026.
-
----
-
-## <i class="fas fa-fw fa-microscope"></i> Research Interests
-- **LLM Rule-Following:** World Model-based Alignment, Structured Prompt Optimization, and Guideline-driven Reasoning
-- **Medical Image Analysis:** Clinical-Guided Representation Learning and Multimodal Vision-Language Segmentation
-- **Biometrics & Security:** Robust Ocular Recognition and Multi-scenario Deepfake Forensics
-
-<style>
-/* ── Nature-inspired palette ──────────────────────
-   Primary navy  : #003366
-   Accent red    : #CC0000
-   Teal          : #006E6E
-   Warm grey     : #4A4A4A
-   Light rule    : #C8D8E8
-──────────────────────────────────────────────── */
-
-.page__content h2 {
-  font-family: Georgia, "Times New Roman", serif;
-  font-weight: 700;
-  color: #003366;
-  border-bottom: 2px solid #c8d8e8;
-  padding-bottom: 0.3em;
-  letter-spacing: 0.01em;
-}
-.pub-venue {
-  display: inline-block;
-  font-family: Georgia, "Times New Roman", serif;
-  font-style: italic;
-  font-weight: 700;
-  font-size: 0.82em;
-  padding: 2px 9px;
-  border-radius: 4px;
-  margin-right: 6px;
-  vertical-align: middle;
-  letter-spacing: 0.02em;
-}
-/* Conference — Nature navy */
-.pv-conf  { background: #e6ecf5; color: #003366; border: 1px solid #a0b8d8; }
-/* Journal — Nature teal */
-.pv-jour  { background: #e2f0f0; color: #005555; border: 1px solid #8ec8c8; }
-/* Preprint — warm grey */
-.pv-arxiv { background: #f2f0eb; color: #4a3f2f; border: 1px solid #c8bfa8; }
-/* Award — Nature red */
-.pub-award { color: #cc0000; font-weight: 700; }
-</style>
-
----
-
-## <i class="fas fa-fw fa-book-open"></i> Publications
-
-**2026**
-- <span class="pub-venue pv-jour">TMI'26</span> **Haiqing Li**, Yinhao Wu, Jingquan Yan, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Jean Gao, and Junzhou Huang. "[Uncertainty-Aware Multimodal Gait Representation Learning for Scoliosis Screening](https://ieeexplore.ieee.org/document/11721224)." *IEEE Transactions on Medical Imaging*, 2026.
-- <span class="pub-venue pv-conf">MICCAI'26</span> Yinhao Wu, **Haiqing Li**, Hehuan Ma, and Junzhou Huang. "[Joint Segmentation and Graph-Based Skeletal Representation Learning with Geometric Priors](https://papers.miccai.org/miccai-2026/0521-Paper4240.html)." *MICCAI*, 2026. <span class="pub-award">Oral Presentation</span>
-- <span class="pub-venue pv-conf">ACL'26</span> **Haiqing Li**, Wenliang Zhong, Yinhao Wu, Hehuan Ma, Yuzhi Guo, Thao M. Dang, and Junzhou Huang. "Guidelines as Environments: A World Model Approach to Rule Following." *ACL*, 2026.
-- <span class="pub-venue pv-conf">AAAI'26</span> Wenliang Zhong, **Haiqing Li**, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang. "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks." *AAAI*, 2026.
-- <span class="pub-venue pv-conf">MIDL'26</span> Yinhao Wu, Hengrui Zhao, **Haiqing Li**, Wenliang Zhong, Hehuan Ma, Yuzhi Guo, Dan Nguyen, Daniel X Yang, Steve B Jiang, Junzhou Huang. "Guideline-Informed MLLM Reasoning for Pathology-Aware Post-Operative Prostate CTV Segmentation." *Medical Imaging with Deep Learning (MIDL)*, 2026.
-
-**2025**
-
-- <span class="pub-venue pv-conf">MICCAI'25</span> Thao M. Dang, **Haiqing Li**, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuawei Miao, Qifeng Zhou, Junzhou Huang. "HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics." *MICCAI*, 2025.
-- <span class="pub-venue pv-conf">MICCAI'25</span> **Haiqing Li**, Yuzhi Guo, Feng Jiang, Thao M. Dang, Hehuan Ma, Qifeng Zhou, Junzhou Huang. "Text-Guided Multi-Instance Learning for Scoliosis Screening via Gait Video Analysis." *MICCAI*, 2025.
-- <span class="pub-venue pv-arxiv">arXiv</span> **Haiqing Li**, Yuzhi Guo, Feng Jiang, Qiang Zhou, Hehuan Ma, Junzhou Huang. "Leveraging Gait Patterns as Biomarkers: An Attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification." *arXiv:2504.03894*, 2025.
-
-**2024**
-
-- <span class="pub-venue pv-jour">TBIOM'24</span> Caiyong Wang, **Haiqing Li** (corresponding), Yi Zhang, Guangzhao Zhao, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition." *IEEE TBIOM*, 2024.
-- <span class="pub-venue pv-jour">Electronics'24</span> Yixin Zhang, Caiyong Wang, **Haiqing Li**, Xianyun Sun, Qichuan Tian, and Guangzhe Zhao. "OcularSeg: Accurate and Efficient Multi-modal Ocular Segmentation in Non-constrained Scenarios." *Electronics*, 13(10), 1967, 2024.
-
-**2023**
-
-- <span class="pub-venue pv-conf">IJCB'23</span> **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, Zhenan He, Yunlong Wang, and Zhenan Sun. "Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation." *IJCB*, 2023. <span class="pub-award">🏆 Best Student Paper Award</span>
-- <span class="pub-venue pv-jour">NCA'23</span> Caiyong Wang, **Haiqing Li** (co-first), Wang Ma, Guangzhao Zhao, and Zhenan He. "MetaScleraSeg: An Effective Meta-learning Framework for Generalized Sclera Segmentation." *Neural Comput. Appl.*, 2023.
-- <span class="pub-venue pv-conf">IJCB'23</span> Abhijit Das, Shorena Atreya, Aritra Mukherjee, Matej Vitek, **Haiqing Li**, Caiyong Wang, Guangzhao Zhao, et al. "Sclera Segmentation and Joint Recognition Benchmarking Competition: SSRBC 2023." *IJCB*, 2023.
-
----
-
-## <i class="fas fa-fw fa-flask"></i> Research Experience
-
-**Institute of Automation, Chinese Academy of Sciences (CASIA)** — Beijing, China  
-*Research Intern, advised by [Prof. Yunlong Wang](https://wylcasia.github.io/)* | Mar 2023 – Jul 2023
-- Researched **multi-modal ocular recognition** across iris, sclera, and periocular signals to enhance biometric robustness in unconstrained scenarios.
-- This work led to "Sclera-TransFuse," which received the **Best Student Paper Award** at IJCB 2023.
-
-**Institute of Automation, Chinese Academy of Sciences (CASIA)** — Beijing, China  
-*Research Intern, advised by [Prof. Xiangyu Zhu](https://xiangyuzhu-open.github.io/homepage/)* | Jul 2021 – Sep 2021
-- Developed **Face Presentation Attack Detection (PAD)** systems utilizing hybrid CNN and Transformer architectures.
-- Evaluated model performance on large-scale biometric datasets to improve defense against spoofing attacks.
-
----
-
-## <i class="fas fa-fw fa-graduation-cap"></i> Education
-
-- **Ph.D. in Computer Science**, University of Texas at Arlington, Sept 2024 – present  
-  Advisor: [Prof. Junzhou Huang](http://ranger.uta.edu/~huang/)
-- **M.Eng. in Mechanical Engineering**, Beijing University of Civil Engineering and Architecture, Sept 2021 – Jun 2024  
-  GPA 89.82/100, top 10%
-- **B.E. in Electrical Engineering and Automation**, Chengdu Technological University, Sept 2017 – Jun 2021  
-  GPA 3.72/4.0, top 1%
-
----
-
-## <i class="fas fa-fw fa-chalkboard-user"></i> Teaching Experience
-
-- CSE 1106: Introduction to Computer Science & Engineering (Spring 2026)
-- CSE 1106: Introduction to Computer Science & Engineering (Fall 2025)
-- CSE 3310: Fundamentals of Software Engineering (Summer 2025)
-- CSE 4322: Software Project Management (Spring 2025)
-
----
-
-## <i class="fas fa-fw fa-trophy"></i> Honors & Awards
-
-- **Travel Award**, ACL, 2026
-- **Travel Award**, MICCAI, 2025
-- **Best Student Paper Award**, IEEE International Joint Conference on Biometrics (IJCB), 2023
-- **Winner**, 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC 2023), IJCB, 2023
-- **National 2nd & 3rd Prize**, 22nd China Robotics and Artificial Intelligence Competition (CAAI), 2020
-- **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM), COMAP, 2020
-- **Finalist**, Academy Award of China Advertising Art Festival for College Students, 2020
-- **First Prize**, National Preliminary, Siemens Cup China Intelligent Manufacturing Challenge, 2019
-- **Most Impactful Project**, Chinese College Students' Volunteer Activities for the Rural Revitalization, 2018
-
----
-
-## <i class="fas fa-fw fa-users"></i> Academic Services
-
-**Conference Reviewer:** MICCAI 2025–2026, AAAI 2026–2027, NeurIPS 2026, IPMI 2027
-
-**Journal Reviewer:** Expert Systems with Applications · Information Fusion · Knowledge-Based Systems · Neurocomputing · Optics and Laser Technology
-
----
-
-<div style="margin-top:2rem; text-align:center;">
-  <a href="https://mapmyvisitors.com" target="_blank" rel="noopener">
-    <img src="https://mapmyvisitors.com/map.png?d=EkH5u6DzAVe2dAf0ph3ygYjMhrE1Q0UsUmaOQrVlDx8&cl=ffffff&w=520&t=tt" alt="Visitor Map" style="max-width:100%; border-radius:8px; border:1px solid #ddd;">
-  </a>
-</div>
+<section id="awards" class="content-section awards-section" aria-labelledby="awards-title">
+  <div class="section-heading"><h2 id="awards-title">Honors &amp; Awards</h2></div>
+  <ul class="awards-list">
+    {% for award in site.data.homepage.awards %}
+    <li{% if award.featured %} class="award-featured"{% endif %}>
+      <span class="award-year">{{ award.year }}</span>
+      <div><strong>{% if award.url %}<a href="{{ award.url }}">{{ award.title }}</a>{% else %}{{ award.title }}{% endif %}</strong><span class="award-organization">{{ award.organization }}</span></div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

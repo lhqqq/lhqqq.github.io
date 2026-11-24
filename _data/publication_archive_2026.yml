@@ -1,0 +1,25 @@
+# Latest papers previously listed in full on the homepage.
+- id: umgrl
+  title: "Uncertainty-Aware Multimodal Gait Representation Learning for Scoliosis Screening"
+  authors: "<strong>Haiqing Li</strong>, Yinhao Wu, Jingquan Yan, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Jean Gao, and Junzhou Huang"
+  venue: IEEE Transactions on Medical Imaging
+  paper_url: https://ieeexplore.ieee.org/document/11721224
+- id: joint-segmentation
+  title: "Joint Segmentation and Graph-Based Skeletal Representation Learning with Geometric Priors"
+  authors: "Yinhao Wu, <strong>Haiqing Li</strong>, Hehuan Ma, and Junzhou Huang"
+  venue: MICCAI 2026
+  award: Oral Presentation
+  paper_url: https://papers.miccai.org/miccai-2026/0521-Paper4240.html
+- id: guidelines
+  title: "Guidelines as Environments: A World Model Approach to Rule Following"
+  authors: "<strong>Haiqing Li</strong>, Wenliang Zhong, Yinhao Wu, Hehuan Ma, Yuzhi Guo, Thao M. Dang, and Junzhou Huang"
+  venue: ACL 2026
+  paper_url: https://aclanthology.org/2026.acl-long.741/
+- id: structured-prompt
+  title: "Learning from Guidelines: Structured Prompt Optimization for Expert Annotation Tasks"
+  authors: "Wenliang Zhong, <strong>Haiqing Li</strong>, Thao M. Dang, Feng Jiang, Hehuan Ma, Yuzhi Guo, Jean Gao, and Junzhou Huang"
+  venue: AAAI 2026
+- id: pathology-ctv
+  title: "Guideline-Informed MLLM Reasoning for Pathology-Aware Post-Operative Prostate CTV Segmentation"
+  authors: "Yinhao Wu, Hengrui Zhao, <strong>Haiqing Li</strong>, Wenliang Zhong, Hehuan Ma, Yuzhi Guo, Dan Nguyen, Daniel X Yang, Steve B Jiang, and Junzhou Huang"
+  venue: Medical Imaging with Deep Learning (MIDL), 2026

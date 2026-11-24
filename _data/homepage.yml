@@ -1,0 +1,57 @@
+research:
+  - title: LLM Rule-Following
+    description: World models, alignment, and guideline-driven reasoning.
+  - title: Medical Image Analysis
+    description: Multimodal learning and clinical-guided representations.
+  - title: Biometrics & Security
+    description: Robust ocular recognition and deepfake forensics.
+
+news:
+  - date: "2026-09"
+    text: "One paper accepted to BIBM 2026. Congratulations to Xiao!"
+  - date: "2026-09"
+    text: "One paper accepted to NeurIPS 2026. Congratulations to Thao!"
+  - date: "2026-09"
+    text: 'Our work on multimodal gait representation learning was accepted to <a href="https://ieeexplore.ieee.org/document/11721224">IEEE TMI</a>.'
+  - date: "2026-05"
+    text: 'One paper accepted to <a href="https://papers.miccai.org/miccai-2026/0521-Paper4240.html">MICCAI 2026</a> as an <strong>oral presentation</strong>. Congratulations to Yinhao!'
+  - date: "2026-04"
+    text: '<a href="https://aclanthology.org/2026.acl-long.741/">Guidelines as Environments</a> was accepted to ACL 2026.'
+  - date: "2025-11"
+    text: "One paper accepted to AAAI 2026."
+
+conference_service: "MICCAI 2025–2026 · AAAI 2026–2027 · NeurIPS 2026 · IPMI 2027"
+journal_service: "Expert Systems with Applications · Information Fusion · Knowledge-Based Systems · Neurocomputing · Optics and Laser Technology"
+
+awards:
+  - year: "2026"
+    title: Travel Award
+    organization: ACL
+  - year: "2025"
+    title: Travel Award
+    organization: MICCAI
+  - year: "2023"
+    title: Best Student Paper Award
+    organization: IEEE International Joint Conference on Biometrics (IJCB)
+    url: https://ijcb2023.ieee-biometrics.org/award-winners/
+    featured: true
+  - year: "2023"
+    title: Competition Winner
+    organization: 8th Sclera Segmentation and Recognition Benchmarking Competition (SSRBC), IJCB
+    url: https://sites.google.com/hyderabad.bits-pilani.ac.in/ssrbc2023/home
+    featured: true
+  - year: "2020"
+    title: National Second & Third Prizes
+    organization: 22nd China Robotics and Artificial Intelligence Competition (CAAI)
+  - year: "2020"
+    title: Honorable Mention
+    organization: Mathematical Contest in Modeling (MCM/ICM), COMAP
+  - year: "2020"
+    title: Finalist
+    organization: Academy Award of China Advertising Art Festival for College Students
+  - year: "2019"
+    title: First Prize, National Preliminary
+    organization: Siemens Cup China Intelligent Manufacturing Challenge
+  - year: "2018"
+    title: Most Impactful Project
+    organization: Chinese College Students’ Volunteer Activities for the Rural Revitalization
