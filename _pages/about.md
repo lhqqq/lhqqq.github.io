@@ -2,7 +2,7 @@
 layout: academic
 permalink: /
 title: "Haiqing Li"
-excerpt: "Haiqing Li is a PhD student at the University of Texas at Arlington, researching LLM rule-following, medical image analysis, and biometrics."
+excerpt: "Haiqing Li is a PhD student at the University of Texas at Arlington, researching LLM rule-following, medical image analysis, biometrics, and protein design and fitness extrapolation."
 author_profile: false
 redirect_from:
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 <section id="about" class="about-section" aria-labelledby="about-title">
   <div class="section-heading"><h2 id="about-title">About Me</h2></div>
   <div class="about-copy">
-      <p>I am a Ph.D. student in Computer Science at the <strong>University of Texas at Arlington</strong>, advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>. My research focuses on <strong>LLM rule-following</strong>, <strong>medical image analysis</strong>, and <strong>biometrics</strong>.</p>
+      <p>I am a Ph.D. student in Computer Science at the <strong>University of Texas at Arlington</strong>, advised by <a href="http://ranger.uta.edu/~huang/">Prof. Junzhou Huang</a>. My research focuses on <strong>LLM rule-following</strong>, <strong>medical image analysis</strong>, <strong>biometrics</strong>, and <strong>protein design and fitness extrapolation</strong>.</p>
       <p>Previously, I received my master’s degree from Beijing University of Civil Engineering and Architecture, advised by <a href="https://academia.caiyong.wang/">Prof. Caiyong Wang</a>, and worked as a research intern at the Institute of Automation, Chinese Academy of Sciences.</p>
   </div>
   <details class="background-details">
@@ -35,7 +35,7 @@ redirect_from:
 
 <section id="research" class="content-section" aria-labelledby="research-title">
   <div class="section-heading"><h2 id="research-title">Research</h2></div>
-  <p>My research spans language models, medical imaging, and biometric analysis. I work on the following directions:</p>
+  <p>My research spans language models, medical imaging, biometric analysis, and protein design. I work on the following directions:</p>
   <ul class="research-list">
     {% for area in site.data.homepage.research %}
     <li><strong>{{ area.title }}</strong><span>{{ area.description }}</span></li>

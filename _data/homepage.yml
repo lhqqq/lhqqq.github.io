@@ -5,6 +5,8 @@ research:
     description: Multimodal learning and clinical-guided representations.
   - title: Biometrics & Security
     description: Robust ocular recognition and deepfake forensics.
+  - title: Protein Design & Fitness Extrapolation
+    description: Generative protein design, fitness prediction, and extrapolation beyond the training distribution.
 
 news:
   - date: "2026-09"
