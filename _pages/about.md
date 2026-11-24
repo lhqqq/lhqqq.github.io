@@ -77,10 +77,11 @@ redirect_from:
     <div><dt>Conference Reviewer</dt><dd>{{ site.data.homepage.conference_service }}</dd></div>
     <div><dt>Journal Reviewer</dt><dd>{{ site.data.homepage.journal_service }}</dd></div>
   </dl>
-  <details class="background-details">
-    <summary>Teaching at UT Arlington</summary>
+  <details class="background-details" open>
+    <summary>Teaching Assistant at UT Arlington</summary>
     <div class="background-content">
       <ul>
+        <li><strong>CSE 5311</strong> · Design and Analysis of Algorithms · Fall 2026</li>
         <li><strong>CSE 1106</strong> · Introduction to Computer Science &amp; Engineering · Spring 2026, Fall 2025</li>
         <li><strong>CSE 3310</strong> · Fundamentals of Software Engineering · Summer 2025</li>
         <li><strong>CSE 4322</strong> · Software Project Management · Spring 2025</li>
